@@ -1,1 +1,1 @@
-# Practical-Application-and-Analysis-with-R-Language
+此仓库为本人学习R语言后所完成的一个综合实践项目，实质上是用R语言执行机器学习算法。
