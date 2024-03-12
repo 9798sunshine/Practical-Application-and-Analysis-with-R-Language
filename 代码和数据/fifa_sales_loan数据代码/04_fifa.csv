@@ -1,0 +1,737 @@
+team,number,position,birth_date,shirt_name,club,height,weight,league,age,name,caps
+Argentina,1,GK,1986-2-10,GUZM¨¢N,Tigres UANL,192,90,MEX,32.33972603,Nahuel Guzm¨¢n,6
+Argentina,2,DF,1987-3-18,MERCADO,Sevilla FC,181,81,ESP,31.24109589,Gabriel Mercado,20
+Argentina,3,DF,1992-8-31,TAGLIAFICO,AFC Ajax,169,65,NED,25.78630137,Nicol¨¢s Tagliafico,4
+Argentina,4,DF,1986-9-20,ANSALDI,Torino FC,181,73,ITA,31.73150685,Cristian Ansaldi,5
+Argentina,5,MF,1986-1-30,BIGLIA,AC Milan,175,73,ITA,32.36986301,Lucas Biglia,57
+Argentina,6,DF,1987-3-17,FAZIO,AS Roma,199,85,ITA,31.24383562,Federico Fazio,9
+Argentina,7,MF,1988-6-29,BANEGA,Sevilla FC,175,73,ESP,29.95890411,¨¦ver Banega,62
+Argentina,8,DF,1991-10-28,ACU?A,Sporting CP,172,77,POR,26.62739726,Marcos Acu?a,10
+Argentina,9,FW,1987-12-10,HIGUA¨ªN,Juventus FC,184,75,ITA,30.50958904,Gonzalo Higua¨ªn,71
+Argentina,10,FW,1987-6-24,MESSI,FC Barcelona,170,72,ESP,30.97260274,Lionel Messi,124
+Argentina,11,MF,1988-2-14,DI MAR¨ªA,Paris Saint-Germain FC,178,75,FRA,30.32876712,¨¢ngel Di Mar¨ªa,94
+Argentina,12,GK,1986-10-16,ARMANI,CA River Plate,189,85,ARG,31.66027397,Franco Armani,0
+Argentina,13,MF,1992-12-15,MEZA,CA Independiente,180,76,ARG,25.49589041,Maximiliano Meza,2
+Argentina,14,DF,1984-6-8,MASCHERANO,Hebei China Fortune FC,174,73,CHN,34.01643836,Javier Mascherano,143
+Argentina,15,MF,1993-2-15,LANZINI,West Ham United FC,167,66,ENG,25.3260274,Enzo P¨¦rez,23
+Argentina,16,DF,1990-3-20,ROJO,Manchester United FC,189,82,ENG,28.23561644,Marcos Rojo,56
+Argentina,17,DF,1988-2-12,OTAMENDI,Manchester City FC,181,81,ENG,30.33424658,Nicol¨¢s Otamendi,54
+Argentina,18,DF,1990-7-13,SALVIO,SL Benfica,167,69,POR,27.92054795,Eduardo Salvio,9
+Argentina,19,FW,1988-6-2,AG¨¹ERO,Manchester City FC,172,74,ENG,30.03287671,Sergio Ag¨¹ero,85
+Argentina,20,MF,1996-4-9,LO CELSO,Paris Saint-Germain FC,177,75,FRA,22.18082192,Giovani Lo Celso,5
+Argentina,21,FW,1993-11-15,DYBALA,Juventus FC,177,73,ITA,24.57808219,Paulo Dybala,12
+Argentina,22,MF,1996-1-21,PAV¨®N,CA Boca Juniors,169,65,ARG,22.39452055,Cristian Pav¨®n,5
+Argentina,23,GK,1981-9-28,CABALLERO,Chelsea FC,186,80,ENG,36.70958904,Willy Caballero,3
+Australia,1,GK,1992-4-8,RYAN,Brighton & Hove Albion FC,184,82,ENG,26.18356164,Mathew Ryan,44
+Australia,2,DF,1994-4-28,DEGENEK,Yokohama F-Marinos,187,85,JPN,24.12876712,Milos Degenek,18
+Australia,3,DF,1988-4-5,MEREDITH,Millwall FC,179,71,ENG,30.19178082,James Meredith,2
+Australia,4,FW,1979-12-6,CAHILL,Millwall FC,180,76,ENG,38.52054795,Tim Cahill,106
+Australia,5,DF,1985-8-4,MILLIGAN,Al Ahli SC,178,78,KSA,32.86027397,Mark Milligan,71
+Australia,6,DF,1989-12-8,JURMAN,Suwon Samsung Bluewings FC,190,83,KOR,28.51506849,Matthew Jurman,4
+Australia,7,FW,1991-2-4,LECKIE,Hertha BSC,181,84,GER,27.35616438,Mathew Leckie,53
+Australia,8,MF,1992-9-25,LUONGO,Queens Park Rangers FC,176,76,ENG,25.71780822,Massimo Luongo,36
+Australia,9,FW,1991-7-22,JURIC,FC Luzern,190,80,SUI,26.89589041,Tomi Juric,35
+Australia,10,FW,1988-10-5,KRUSE,VfL Bochum,180,66,GER,29.69041096,Robbie Kruse,64
+Australia,11,FW,1992-12-17,NABBOUT,Urawa Reds,178,85,JPN,25.49041096,Andrew Nabbout,4
+Australia,12,GK,1982-3-19,JONES,Feyenoord Rotterdam,193,87,NED,36.23835616,Brad Jones,6
+Australia,13,MF,1990-9-15,MOOY,Huddersfield Town FC,173,72,ENG,27.74520548,Aaron Mooy,34
+Australia,14,FW,1993-7-29,MACLAREN,Hibernian FC,178,72,SCO,24.87671233,Jamie Maclaren,6
+Australia,15,MF,1984-8-3,JEDINAK,Aston Villa FC,188,78,ENG,33.8630137,Mile Jedinak,76
+Australia,16,DF,1990-12-16,BEHICH,Bursaspor,170,63,TUR,27.49315068,Aziz Behich,23
+Australia,17,FW,1999-1-4,ARZANI,Melbourne City FC,171,73,AUS,19.44109589,Daniel Arzani,2
+Australia,18,GK,1985-3-27,VUKOVIC,KRC Genk,187,94,BEL,33.21643836,Danny Vukovic,1
+Australia,19,DF,1992-7-27,RISDON,WS Wanderers FC,169,70,AUS,25.88219178,Josh Risdon,8
+Australia,20,DF,1992-1-5,SAINSBURY,Grasshopper Club,183,76,SUI,26.43835616,Trent Sainsbury,35
+Australia,21,FW,1992-11-10,PETRATOS,Newcastle United Jets FC,176,72,AUS,25.59178082,Dimitri Petratos,2
+Australia,22,MF,1993-3-7,IRVINE,Hull City FC,180,77,ENG,25.27123288,Jackson Irvine,19
+Australia,23,MF,1992-12-16,ROGIC,Celtic FC,189,88,SCO,25.49315068,Tom Rogic,37
+Belgium,1,GK,1992-5-11,COURTOIS,Chelsea FC,199,91,ENG,26.09315068,Thibaut Courtois,58
+Belgium,2,DF,1989-3-2,ALDERWEIRELD,Tottenham Hotspur FC,186,81,ENG,29.28493151,Toby Alderweireld,77
+Belgium,3,DF,1985-11-14,VERMAELEN,FC Barcelona,183,80,ESP,32.58082192,Thomas Vermaelen,66
+Belgium,4,DF,1986-4-10,KOMPANY,Manchester City FC,190,85,ENG,32.17808219,Vincent Kompany,77
+Belgium,5,DF,1987-4-24,VERTONGHEN,Tottenham Hotspur FC,189,86,ENG,31.13972603,Jan Vertonghen,102
+Belgium,6,MF,1989-1-12,WITSEL,Tianjin Quanjian FC,186,73,CHN,29.41917808,Axel Witsel,90
+Belgium,7,MF,1991-6-28,DE BRUYNE,Manchester City FC,181,70,ENG,26.96164384,Kevin De Bruyne,62
+Belgium,8,MF,1987-11-22,FELLAINI,Manchester United FC,194,85,ENG,30.55890411,Marouane Fellaini,82
+Belgium,9,FW,1993-5-13,R. LUKAKU,Manchester United FC,190,94,ENG,25.08767123,Romelu Lukaku,69
+Belgium,10,FW,1991-1-7,E. HAZARD,Chelsea FC,173,74,ENG,27.43287671,Eden Hazard,86
+Belgium,11,MF,1993-9-4,CARRASCO,Dalian Yifang FC,180,67,CHN,24.77534247,Yannick Carrasco,26
+Belgium,12,GK,1988-3-6,MIGNOLET,Liverpool FC,193,87,ENG,30.2739726,Simon Mignolet,21
+Belgium,13,GK,1992-6-25,CASTEELS,VfL Wolfsburg,197,86,GER,25.96986301,Koen Casteels,0
+Belgium,14,FW,1987-5-6,MERTENS,SSC Napoli,169,61,ITA,31.10684932,Dries Mertens,69
+Belgium,15,DF,1991-9-12,MEUNIER,Paris Saint-Germain FC,190,88,FRA,26.75342466,Thomas Meunier,25
+Belgium,16,MF,1993-3-29,T. HAZARD,VfL Borussia M?nchengladbach,174,70,GER,25.2109589,Thorgan Hazard,11
+Belgium,17,MF,1997-5-7,TIELEMANS,AS Monaco,176,72,FRA,21.10410959,Youri Tielemans,9
+Belgium,18,FW,1995-2-5,JANUZAJ,Real Sociedad,180,75,ESP,23.35342466,Adnan Januzaj,8
+Belgium,19,MF,1987-7-16,DEMBELE,Tottenham Hotspur FC,185,82,ENG,30.91232877,Mousa Demb¨¦l¨¦,76
+Belgium,20,DF,1990-11-28,BOYATA,Celtic FC,188,84,SCO,27.54246575,Dedryck Boyata,7
+Belgium,21,FW,1993-10-2,BATSHUAYI,Borussia Dortmund,185,78,GER,24.69863014,Michy Batshuayi,16
+Belgium,22,MF,1989-8-2,CHADLI,West Bromwich Albion FC,187,85,ENG,28.86575342,Nacer Chadli,45
+Belgium,23,DF,1995-4-15,DENDONCKER,RSC Anderlecht,188,76,BEL,23.16438356,Leander Dendoncker,5
+Brazil,1,GK,1992-10-2,A. BECKER,AS Roma,193,91,ITA,25.69863014,Alisson,26
+Brazil,2,DF,1984-9-22,T. SILVA,Paris Saint-Germain FC,183,79,FRA,33.7260274,Thiago Silva,71
+Brazil,3,DF,1984-9-7,MIRANDA,FC Internazionale,186,78,ITA,33.76712329,Miranda,47
+Brazil,4,DF,1985-9-21,GEROMEL,Gr¨ºmio FBPA,190,84,BRA,32.72876712,Pedro Geromel,2
+Brazil,5,MF,1992-2-23,CASEMIRO,Real Madrid CF,185,84,ESP,26.30410959,Casemiro,24
+Brazil,6,DF,1985-8-9,FILIPE LUIS,Atletico Madrid,182,73,ESP,32.84657534,Filipe Lu¨ªs,33
+Brazil,7,FW,1990-9-14,D. COSTA,Juventus FC,182,70,ITA,27.74794521,Douglas Costa,25
+Brazil,8,MF,1988-2-8,R. AUGUSTO,Beijing Guoan,186,86,CHN,30.34520548,Renato Augusto,28
+Brazil,9,FW,1997-4-3,G. JESUS,Manchester City FC,175,73,ENG,21.19726027,Gabriel Jesus,17
+Brazil,10,FW,1992-2-5,NEYMAR JR,Paris Saint-Germain FC,175,68,FRA,26.35342466,Neymar,85
+Brazil,11,MF,1992-6-12,P. COUTINHO,FC Barcelona,172,68,ESP,26.00547945,Philippe Coutinho,37
+Brazil,12,DF,1988-5-12,MARCELO,Real Madrid CF,174,80,ESP,30.09041096,Marcelo,54
+Brazil,13,DF,1994-5-14,MARQUINHOS,Paris Saint-Germain FC,183,75,FRA,24.08493151,Marquinhos,26
+Brazil,14,DF,1991-7-15,DANILO,Manchester City FC,184,78,ENG,26.91506849,Danilo,18
+Brazil,15,MF,1988-7-25,PAULINHO,FC Barcelona,181,81,ESP,29.88767123,Paulinho,50
+Brazil,16,GK,1987-6-6,CASSIO,SC Corinthians,195,92,BRA,31.02191781,C¨¢ssio,1
+Brazil,17,MF,1985-5-4,FERNANDINHO,Manchester City FC,179,67,ENG,33.11232877,Fernandinho,44
+Brazil,18,MF,1993-3-5,FRED,FC Shakhtar Donetsk,169,64,UKR,25.27671233,Fred,8
+Brazil,19,MF,1988-8-9,WILLIAN,Chelsea FC,175,77,ENG,29.84657534,Willian,57
+Brazil,20,FW,1991-10-2,FIRMINO,Liverpool FC,181,76,ENG,26.69863014,Roberto Firmino,21
+Brazil,21,FW,1988-1-13,TAISON,FC Shakhtar Donetsk,172,64,UKR,30.41643836,Taison,8
+Brazil,22,DF,1989-6-11,FAGNER,SC Corinthians,168,67,BRA,29.00821918,Fagner,4
+Brazil,23,GK,1993-8-17,EDERSON,Manchester City FC,188,86,ENG,24.82465753,Ederson,1
+Colombia,1,GK,1988-8-31,OSPINA,Arsenal FC,183,80,ENG,29.78630137,David Ospina,86
+Colombia,2,DF,1986-9-30,C. ZAPATA,AC Milan,187,82,ITA,31.70410959,Cristi¨¢n Zapata,55
+Colombia,3,DF,1988-4-18,O. MURILLO,CF Pachuca,184,80,MEX,30.15616438,¨®scar Murillo,13
+Colombia,4,DF,1992-1-13,ARIAS,PSV Eindhoven,177,71,NED,26.41643836,Santiago Arias,41
+Colombia,5,MF,1993-10-16,BARRIOS,CA Boca Juniors,178,74,ARG,24.66027397,W¨ªlmar Barrios,10
+Colombia,6,MF,1986-2-6,C. SANCHEZ,RCD Espanyol,182,82,ESP,32.35068493,Carlos S¨¢nchez,85
+Colombia,7,FW,1986-9-8,BACCA,Villarreal CF,181,77,ESP,31.76438356,Carlos Bacca,45
+Colombia,8,MF,1985-1-6,AGUILAR T.,AC Deportivo Cali,185,82,COL,33.43561644,Abel Aguilar,70
+Colombia,9,FW,1986-2-10,FALCAO,AS Monaco,177,72,FRA,32.33972603,Radamel Falcao,73
+Colombia,10,MF,1991-7-12,JAMES,FC Bayern M¨¹nchen,180,75,GER,26.92328767,James Rodr¨ªguez,63
+Colombia,11,MF,1988-5-26,CUADRADO,Juventus FC,179,72,ITA,30.05205479,Juan Cuadrado,70
+Colombia,12,GK,1989-3-9,C. VARGAS,AC Deportivo Cali,185,80,COL,29.26575342,Camilo Vargas,5
+Colombia,13,DF,1994-9-23,Y. MINA,FC Barcelona,194,95,ESP,23.72328767,Yerry Mina,12
+Colombia,14,FW,1991-4-16,L. MURIEL,Sevilla FC,178,79,ESP,27.16164384,Luis Muriel,18
+Colombia,15,MF,1991-3-21,M. URIBE,Club Am¨¦rica,182,71,MEX,27.23287671,Mateus Uribe,8
+Colombia,16,MF,1994-10-25,J. LERMA,Levante UD,179,70,ESP,23.63561644,Jefferson Lerma,5
+Colombia,17,DF,1992-8-21,J. MOJICA,Girona FC,185,66,ESP,25.81369863,Johan Mojica,4
+Colombia,18,DF,1991-2-22,FABRA,CA Boca Juniors,172,72,ARG,27.30684932,Farid D¨ªaz,13
+Colombia,19,FW,1993-1-26,M. BORJA,SE Palmeiras,183,74,BRA,25.38082192,Miguel Borja,7
+Colombia,20,MF,1993-1-18,J. QUINTERO,CA River Plate,169,64,ARG,25.40273973,Juan Fernando Quintero,15
+Colombia,21,FW,1992-7-7,IZQUIERDO,Brighton & Hove Albion FC,171,73,ENG,25.9369863,Jos¨¦ Izquierdo,5
+Colombia,22,GK,1985-6-1,J.F. CUADRADO,CD Once Caldas,180,80,COL,33.03561644,Jos¨¦ Fernando Cuadrado,1
+Colombia,23,DF,1996-6-12,D. SANCHEZ,Tottenham Hotspur FC,187,81,ENG,22.00547945,D¨¢vinson S¨¢nchez,9
+Costa Rica,1,GK,1986-12-15,K. NAVAS,Real Madrid CF,185,80,ESP,31.49589041,Keylor Navas,81
+Costa Rica,2,DF,1983-7-21,J. ACOSTA,Rionegro ¨¢guilas,176,75,COL,34.89863014,Johnny Acosta,69
+Costa Rica,3,DF,1988-2-8,G. GONZALEZ,Bologna FC,186,78,ITA,30.34520548,Giancarlo Gonz¨¢lez,70
+Costa Rica,4,DF,1998-3-6,I. SMITH,IFK Norrkoping FK,177,68,SWE,20.2739726,Ian Smith,4
+Costa Rica,5,MF,1988-5-27,C. BORGES,Deportivo La Coru?a,187,79,ESP,30.04931507,Celso Borges,113
+Costa Rica,6,DF,1989-6-3,O. DUARTE,RCD Espanyol,186,81,ESP,29.03013699,¨®scar Duarte,39
+Costa Rica,7,MF,1984-5-17,C. BOLA?OS,Deportivo Saprissa,178,67,CRC,34.07671233,Christian Bola?os,81
+Costa Rica,8,DF,1990-2-18,B. OVIEDO,Sunderland AFC,172,70,ENG,28.31780822,Bryan Oviedo,44
+Costa Rica,9,MF,1985-1-10,D. COLINDRES,Deportivo Saprissa,180,75,CRC,33.42465753,Daniel Colindres,11
+Costa Rica,10,MF,1985-8-18,BRYAN,Sporting CP,187,73,POR,32.82191781,Bryan Ruiz,110
+Costa Rica,11,FW,1988-11-27,J. VENEGAS,Deportivo Saprissa,183,76,CRC,29.54520548,Johan Venegas,47
+Costa Rica,12,FW,1992-6-26,J. CAMPBELL,Real Betis,178,71,ESP,25.96712329,Joel Campbell,77
+Costa Rica,13,MF,1988-6-17,R. WALLACE,New York City FC,180,70,USA,29.99178082,Rodney Wallace,30
+Costa Rica,14,MF,1984-12-30,R. AZOFEIFA,CS Herediano,182,83,CRC,33.45479452,Randall Azofeifa,58
+Costa Rica,15,DF,1992-7-8,F. CALVO,Minnesota United FC,180,78,USA,25.93424658,Francisco Calvo,38
+Costa Rica,16,DF,1989-10-24,C. GAMBOA,Celtic FC,175,67,SCO,28.63835616,Cristian Gamboa,68
+Costa Rica,17,MF,1992-3-17,Y. TEJEDA,FC Lausanne-Sport,179,67,SUI,26.24383562,Yeltsin Tejeda,51
+Costa Rica,18,GK,1982-4-24,P. PEMBERTON,LD Alajuelense,178,72,CRC,36.13972603,Patrick Pemberton,39
+Costa Rica,19,DF,1988-1-1,K. WASTON,Vancouver Whitecaps FC,196,87,CAN,30.44931507,Kendall Waston,26
+Costa Rica,20,MF,1990-2-18,D. GUZMAN,Portland Timbers,176,78,USA,28.31780822,David Guzm¨¢n,43
+Costa Rica,21,FW,1990-3-5,M. URE?A,Los Angeles FC,181,70,USA,28.27671233,Marco Ure?a,64
+Costa Rica,22,DF,1994-7-9,R. MATARRITA,New York City FC,175,70,USA,23.93150685,Kenner Guti¨¦rrez,9
+Costa Rica,23,GK,1990-4-2,L. MOREIRA,CS Herediano,179,70,CRC,28.2,Leonel Moreira,9
+Croatia,1,GK,1995-1-9,LIVAKOVI?,GNK Dinamo Zagreb,188,82,CRO,23.42739726,Dominik Livakovi?,1
+Croatia,2,DF,1992-1-10,VRSALJKO,Atletico Madrid,181,76,ESP,26.42465753,?ime Vrsaljko,35
+Croatia,3,DF,1987-7-17,STRINI?,UC Sampdoria,186,78,ITA,30.90958904,Ivan Strini?,43
+Croatia,4,FW,1989-2-2,PERI?I?,FC Internazionale,186,81,ITA,29.36164384,Ivan Peri?i?,66
+Croatia,5,DF,1986-2-5,?ORLUKA,FC Lokomotiv Moscow,192,84,RUS,32.35342466,Vedran ?orluka,99
+Croatia,6,DF,1989-7-5,LOVREN,Liverpool FC,188,84,ENG,28.94246575,Dejan Lovren,39
+Croatia,7,MF,1988-3-10,RAKITI?,FC Barcelona,184,78,ESP,30.2630137,Ivan Rakiti?,92
+Croatia,8,MF,1994-5-6,KOVA?I?,Real Madrid CF,178,78,ESP,24.10684932,Mateo Kova?i?,41
+Croatia,9,FW,1991-6-19,KRAMARI?,TSG 1899 Hoffenheim,177,73,GER,26.98630137,Andrej Kramari?,31
+Croatia,10,MF,1985-9-9,MODRI?,Real Madrid CF,172,66,ESP,32.76164384,Luka Modri?,106
+Croatia,11,MF,1992-11-16,BROZOVI?,FC Internazionale,181,68,ITA,25.57534247,Marcelo Brozovi?,35
+Croatia,12,GK,1990-4-3,L. KALINI?,KAA Gent,201,96,BEL,28.19726027,Lovre Kalini?,11
+Croatia,13,DF,1995-11-28,JEDVAJ,Bayer 04 Leverkusen,184,81,GER,22.54246575,Tin Jedvaj,12
+Croatia,14,MF,1992-1-11,BRADARI?,HNK Rijeka,186,78,CRO,26.42191781,Filip Bradari?,4
+Croatia,15,DF,1996-9-17,?ALETA-CAR,FC Red Bull Salzburg,192,89,AUT,21.73972603,Duje ?aleta-Car,1
+Croatia,16,FW,1988-1-5,N. KALINI?,AC Milan,187,81,ITA,30.43835616,Nikola Kalini?,42
+Croatia,17,FW,1986-5-21,MAND?UKI?,Juventus FC,190,85,ITA,32.06575342,Mario Mand?uki?,83
+Croatia,18,FW,1993-9-21,REBI?,Eintracht Frankfurt,185,78,GER,24.72876712,Ante Rebi?,16
+Croatia,19,MF,1989-2-25,BADELJ,ACF Fiorentina,186,76,ITA,29.29863014,Milan Badelj,38
+Croatia,20,FW,1995-5-6,PJACA,FC Schalke 04,186,83,GER,23.10684932,Marko Pjaca,16
+Croatia,21,DF,1989-4-29,VIDA,Besiktas JK,184,76,TUR,29.1260274,Domagoj Vida,59
+Croatia,22,DF,1989-1-30,PIVARI?,FC Dynamo Kyiv,176,69,UKR,29.36986301,Josip Pivari?,19
+Croatia,23,GK,1984-10-27,SUBA?I?,AS Monaco,191,84,FRA,33.63013699,Danijel Suba?i?,38
+Denmark,1,GK,1986-11-5,SCHMEICHEL,Leicester City FC,190,92,ENG,31.60547945,Kasper Schmeichel,35
+Denmark,2,MF,1983-6-6,KROHN-DEHLI,Deportivo La Coru?a,171,69,ESP,35.02191781,Michael Krohn-Dehli,59
+Denmark,3,DF,1992-8-3,VESTERGAARD,VfL Borussia M?nchengladbach,200,98,GER,25.8630137,Jannik Vestergaard,16
+Denmark,4,DF,1989-3-26,KJ?R,Sevilla FC,191,84,ESP,29.21917808,Simon Kj?r,78
+Denmark,5,DF,1992-9-16,KNUDSEN,Ipswich Town FC,187,82,ENG,25.74246575,Jonas Knudsen,3
+Denmark,6,DF,1996-4-10,CHRISTENSEN,Chelsea FC,192,85,ENG,22.17808219,Andreas Christensen,16
+Denmark,7,MF,1985-2-24,KVIST,FC Kobenhavn,185,80,DEN,33.30136986,William Kvist,80
+Denmark,8,MF,1991-9-3,DELANEY,SV Werder Bremen,180,78,GER,26.77808219,Thomas Delaney,27
+Denmark,9,FW,1991-1-15,N. J?RGENSEN,Feyenoord Rotterdam,194,86,NED,27.4109589,Nicolai J?rgensen,31
+Denmark,10,MF,1992-2-14,ERIKSEN,Tottenham Hotspur FC,181,76,ENG,26.32876712,Christian Eriksen,78
+Denmark,11,FW,1991-6-5,BRAITHWAITE,FC Girondins Bordeaux,180,73,FRA,27.02465753,Martin Braithwaite,20
+Denmark,12,FW,1997-10-6,DOLBERG,AFC Ajax,187,85,NED,20.68767123,Kasper Dolberg,6
+Denmark,13,DF,1990-4-23,M. J?RGENSEN,Huddersfield Town FC,191,85,ENG,28.14246575,Mathias J?rgensen,12
+Denmark,14,DF,1989-7-27,DALSGAARD,Brentford FC,190,81,ENG,28.88219178,Henrik Dalsgaard,11
+Denmark,15,FW,1994-6-9,FISCHER,FC Kobenhavn,181,80,DEN,24.01369863,Viktor Fischer,19
+Denmark,16,GK,1989-2-1,L?SSL,Huddersfield Town FC,195,90,ENG,29.36438356,Jonas L?ssl,1
+Denmark,17,DF,1991-2-21,STRYGER,Udinese Calcio,182,82,ITA,27.30958904,Jens Stryger Larsen,13
+Denmark,18,MF,1993-7-12,LERAGER,FC Girondins Bordeaux,186,85,FRA,24.92328767,Lukas Lerager,4
+Denmark,19,MF,1986-5-27,SCH?NE,AFC Ajax,178,80,NED,32.04931507,Lasse Sch?ne,36
+Denmark,20,FW,1994-6-15,YURARY,RB Leipzig,193,84,GER,23.99726027,Yussuf Poulsen,28
+Denmark,21,FW,1993-3-16,CORNELIUS,Atalanta Bergamo,195,91,ITA,25.24657534,Andreas Cornelius,18
+Denmark,22,GK,1992-8-4,R?NNOW,Brondby IF,190,85,DEN,25.86027397,Frederik R?nnow,6
+Denmark,23,FW,1995-2-4,SISTO,Celta Vigo,173,69,ESP,23.35616438,Pione Sisto,14
+Egypt,1,GK,1973-1-15,ELHADARY,Al Taawoun FC,190,90,KSA,45.4109589,Essam El-Hadary,158
+Egypt,2,DF,1989-1-1,ALI GABR,West Bromwich Albion FC,191,88,ENG,29.44931507,Ali Gabr,21
+Egypt,3,DF,1987-9-9,ELMOHAMADY,Aston Villa FC,183,76,ENG,30.76164384,Ahmed Elmohamady,78
+Egypt,4,MF,1992-1-30,O. GABER,Los Angeles FC,175,71,USA,26.36986301,Omar Gaber,24
+Egypt,5,MF,1991-9-10,MORSY,Wigan Athletic FC,173,75,ENG,26.75890411,Sam Morsy,5
+Egypt,6,DF,1991-1-25,A. HEGAZY,West Bromwich Albion FC,194,95,ENG,27.38356164,Ahmed Hegazi,45
+Egypt,7,DF,1984-11-10,A. FATHI,Al Ahly SC,176,76,EGY,33.59178082,Ahmed Fathy,126
+Egypt,8,MF,1988-10-24,TAREK HAMED,Zamalek,169,67,EGY,29.63835616,Tarek Hamed,21
+Egypt,9,FW,1989-2-26,MARWAN,Al Ahly SC,185,81,EGY,29.29589041,Marwan Mohsen,24
+Egypt,10,FW,1992-6-15,M SALAH,Liverpool FC,175,71,ENG,25.99726027,Mohamed Salah,57
+Egypt,11,FW,1994-4-13,M. KAHRABA,Al-Ittihad FC,182,76,KSA,24.16986301,Kahraba,19
+Egypt,12,DF,1991-4-9,A. ASHRAF,Al Ahly SC,176,73,EGY,27.18082192,Ayman Ashraf,4
+Egypt,13,DF,1985-7-1,ABDELSHAFY,Al Fateh FC,171,72,KSA,32.95342466,Mohamed Abdel-Shafy,51
+Egypt,14,FW,1997-1-23,RAMADAN,Stoke City FC,183,77,ENG,21.3890411,Ramadan Sobhi,23
+Egypt,15,DF,1995-6-1,M. HAMDY,Zamalek,173,72,EGY,23.03561644,Mahmoud Hamdy,0
+Egypt,16,GK,1983-7-10,EKRAMY,Al Ahly SC,193,93,EGY,34.92876712,Sherif Ekramy,22
+Egypt,17,MF,1992-7-11,M. ELNENY,Arsenal FC,181,74,ENG,25.9260274,Mohamed Elneny,61
+Egypt,18,FW,1986-3-5,SHIKABALA,Al Raed SC,183,80,KSA,32.27671233,Shikabala,29
+Egypt,19,MF,1985-7-13,ABDALLA,Kuopion PS,176,75,FIN,32.92054795,Abdallah Said,36
+Egypt,20,DF,1989-4-1,S. SAMIR,Al Ahly SC,183,82,EGY,29.20273973,Saad Samir,11
+Egypt,21,MF,1994-10-1,M. TREZEGUET,Kasimpasa SK,181,77,TUR,23.70136986,Tr¨¦z¨¦guet,24
+Egypt,22,FW,1993-9-17,WARDA,Atromitos FC,179,77,GRE,24.73972603,Amr Warda,16
+Egypt,23,GK,1988-12-18,M. ELSHENAWY,Al Ahly SC,191,86,EGY,29.48767123,Mohamed El-Shenawy,3
+England,1,GK,1994-3-7,PICKFORD,Everton FC,185,72,ENG,24.27123288,Jordan Pickford,3
+England,2,DF,1990-5-28,WALKER,Manchester City FC,178,83,ENG,28.04657534,Kyle Walker,35
+England,3,DF,1990-7-2,ROSE,Tottenham Hotspur FC,173,76,ENG,27.95068493,Danny Rose,18
+England,4,MF,1994-1-15,DIER,Tottenham Hotspur FC,188,90,ENG,24.4109589,Eric Dier,26
+England,5,DF,1994-5-28,STONES,Manchester City FC,188,72,ENG,24.04657534,John Stones,26
+England,6,DF,1993-3-5,MAGUIRE,Leicester City FC,193,98,ENG,25.27671233,Harry Maguire,5
+England,7,MF,1992-12-15,LINGARD,Manchester United FC,175,60,ENG,25.49589041,Jesse Lingard,12
+England,8,MF,1990-6-17,HENDERSON,Liverpool FC,183,82,ENG,27.99178082,Jordan Henderson,39
+England,9,FW,1993-7-28,KANE,Tottenham Hotspur FC,188,98,ENG,24.87945205,Harry Kane,24
+England,10,FW,1994-12-8,STERLING,Manchester City FC,170,70,ENG,23.51506849,Raheem Sterling,38
+England,11,FW,1987-1-11,VARDY,Leicester City FC,178,80,ENG,31.42191781,Jamie Vardy,22
+England,12,DF,1990-9-19,TRIPPIER,Tottenham Hotspur FC,178,72,ENG,27.73424658,Kieran Trippier,7
+England,13,GK,1993-3-10,BUTLAND,Stoke City FC,196,96,ENG,25.2630137,Jack Butland,8
+England,14,FW,1990-11-26,WELBECK,Arsenal FC,184,78,ENG,27.54794521,Danny Welbeck,39
+England,15,DF,1985-12-19,CAHILL,Chelsea FC,191,85,ENG,32.48493151,Gary Cahill,60
+England,16,DF,1992-2-21,JONES,Manchester United FC,182,72,ENG,26.30958904,Phil Jones,25
+England,17,DF,1989-11-21,DELPH,Manchester City FC,174,78,ENG,28.56164384,Fabian Delph,11
+England,18,DF,1985-7-9,YOUNG,Manchester United FC,175,78,ENG,32.93150685,Ashley Young,34
+England,19,FW,1997-10-31,RASHFORD,Manchester United FC,180,78,ENG,20.61917808,Marcus Rashford,19
+England,20,MF,1996-4-11,DELE,Tottenham Hotspur FC,188,76,ENG,22.17534247,Dele Alli,25
+England,21,MF,1996-1-23,LOFTUS-CHEEK,Chelsea FC,190,73,ENG,22.3890411,Ruben Loftus-Cheek,4
+England,22,DF,1998-10-7,ALEXANDER-ARNOLD,Liverpool FC,175,70,ENG,19.68493151,Trent Alexander-Arnold,1
+England,23,GK,1992-4-19,POPE,Burnley FC,191,76,ENG,26.15342466,Nick Pope,1
+France,1,GK,1986-12-26,LLORIS,Tottenham Hotspur FC,188,82,ENG,31.46575342,Hugo Lloris,98
+France,2,DF,1996-3-28,PAVARD,VfB Stuttgart,186,76,GER,22.21369863,Benjamin Pavard,6
+France,3,DF,1995-8-13,KIMPEMBE,Paris Saint-Germain FC,182,78,FRA,22.83561644,Presnel Kimpembe,2
+France,4,DF,1993-4-25,VARANE,Real Madrid CF,191,79,ESP,25.1369863,Rapha?l Varane,42
+France,5,DF,1993-11-14,UMTITI,FC Barcelona,183,84,ESP,24.58082192,Samuel Umtiti,19
+France,6,MF,1993-3-15,POGBA,Manchester United FC,191,86,ENG,25.24931507,Paul Pogba,54
+France,7,FW,1991-3-21,GRIEZMANN,Atletico Madrid,174,72,ESP,27.23287671,Antoine Griezmann,54
+France,8,FW,1995-11-12,LEMAR,AS Monaco,172,65,FRA,22.58630137,Thomas Lemar,12
+France,9,FW,1986-9-30,GIROUD,Chelsea FC,193,91,ENG,31.70410959,Olivier Giroud,74
+France,10,FW,1998-12-20,MBAPPE,Paris Saint-Germain FC,178,78,FRA,19.48219178,Kylian Mbapp¨¦,15
+France,11,FW,1997-5-15,DEMBELE,FC Barcelona,178,70,ESP,21.08219178,Ousmane Demb¨¦l¨¦,12
+France,12,MF,1994-8-3,TOLISSO,FC Bayern M¨¹nchen,180,82,GER,23.8630137,Corentin Tolisso,9
+France,13,MF,1991-3-29,KANTE,Chelsea FC,168,70,ENG,27.2109589,N'Golo Kant¨¦,24
+France,14,MF,1987-4-9,MATUIDI,Juventus FC,180,74,ITA,31.18082192,Blaise Matuidi,67
+France,15,MF,1988-12-15,NZONZI,Sevilla FC,197,87,ESP,29.49589041,Steven Nzonzi,4
+France,16,GK,1985-3-28,MANDANDA,Olympique Marseille,187,88,FRA,33.21369863,Steve Mandanda,27
+France,17,DF,1985-12-27,RAMI,Olympique Marseille,190,90,FRA,32.4630137,Adil Rami,35
+France,18,FW,1993-7-18,FEKIR,Olympique Lyon,173,76,FRA,24.90684932,Nabil Fekir,12
+France,19,DF,1992-7-29,SIDIBE,AS Monaco,184,81,FRA,25.87671233,Djibril Sidib¨¦,17
+France,20,FW,1993-1-26,THAUVIN,Olympique Marseille,180,76,FRA,25.38082192,Florian Thauvin,4
+France,21,DF,1996-2-14,HERNANDEZ,Atletico Madrid,183,76,ESP,22.32876712,Lucas Hern¨¢ndez,5
+France,22,DF,1994-7-17,MENDY,Manchester City FC,183,84,ENG,23.90958904,Benjamin Mendy,7
+France,23,GK,1993-2-27,AREOLA,Paris Saint-Germain FC,195,95,FRA,25.29315068,Alphonse Areola,0
+Germany,1,GK,1986-3-27,NEUER,FC Bayern M¨¹nchen,193,93,GER,32.21643836,Manuel Neuer,76
+Germany,2,DF,1992-1-26,PLATTENHARDT,Hertha BSC,181,76,GER,26.38082192,Marvin Plattenhardt,6
+Germany,3,DF,1990-5-27,HECTOR,1. FC K?ln,185,75,GER,28.04931507,Jonas Hector,38
+Germany,4,DF,1994-1-19,GINTER,VfL Borussia M?nchengladbach,189,85,GER,24.4,Matthias Ginter,18
+Germany,5,DF,1988-12-16,HUMMELS,FC Bayern M¨¹nchen,192,90,GER,29.49315068,Mats Hummels,64
+Germany,6,MF,1987-4-4,KHEDIRA,Juventus FC,189,81,ITA,31.19452055,Sami Khedira,75
+Germany,7,MF,1993-9-20,DRAXLER,Paris Saint-Germain FC,185,74,FRA,24.73150685,Julian Draxler,44
+Germany,8,MF,1990-1-4,KROOS,Real Madrid CF,182,78,ESP,28.44109589,Toni Kroos,83
+Germany,9,FW,1996-3-6,WERNER,RB Leipzig,181,75,GER,22.2739726,Timo Werner,14
+Germany,10,MF,1988-10-15,?ZIL,Arsenal FC,180,70,ENG,29.6630137,Mesut ?zil,90
+Germany,11,FW,1989-5-31,REUS,Borussia Dortmund,180,67,GER,29.03835616,Marco Reus,31
+Germany,12,GK,1990-7-8,TRAPP,Paris Saint-Germain FC,189,88,FRA,27.93424658,Kevin Trapp,3
+Germany,13,MF,1989-9-13,M¨¹LLER,FC Bayern M¨¹nchen,186,75,GER,28.75068493,Thomas M¨¹ller,91
+Germany,14,MF,1995-2-6,GORETZKA,FC Schalke 04,189,76,GER,23.35068493,Leon Goretzka,15
+Germany,15,DF,1995-9-3,S¨¹LE,FC Bayern M¨¹nchen,195,89,GER,22.77808219,Niklas S¨¹le,11
+Germany,16,DF,1993-3-3,R¨¹DIGER,Chelsea FC,191,85,ENG,25.28219178,Antonio R¨¹diger,24
+Germany,17,DF,1988-9-3,BOATENG,FC Bayern M¨¹nchen,192,90,GER,29.77808219,J¨¦r?me Boateng,71
+Germany,18,DF,1995-2-8,KIMMICH,FC Bayern M¨¹nchen,176,72,GER,23.34520548,Joshua Kimmich,29
+Germany,19,MF,1990-2-28,RUDY,FC Bayern M¨¹nchen,179,74,GER,28.29041096,Sebastian Rudy,25
+Germany,20,MF,1996-5-2,BRANDT,Bayer 04 Leverkusen,183,82,GER,22.11780822,Julian Brandt,16
+Germany,21,MF,1990-10-24,G¨¹NDOGAN,Manchester City FC,180,79,ENG,27.63835616,?lkay G¨¹ndo?an,26
+Germany,22,GK,1992-4-30,TER STEGEN,FC Barcelona,187,85,ESP,26.12328767,Marc-Andr¨¦ ter Stegen,20
+Germany,23,FW,1985-7-10,GOMEZ,VfB Stuttgart,189,82,GER,32.92876712,Mario G¨®mez,75
+Iceland,1,GK,1984-4-27,HALLDORSSON,Randers FC,193,88,DEN,34.13150685,Hannes T¨®r Halld¨®rsson,49
+Iceland,2,DF,1984-11-11,S?VARSSON,Valur Reykjavik,186,75,ISL,33.5890411,Birkir M¨¢r S?varsson,79
+Iceland,3,MF,1996-2-22,FRIDJ¨®NSSON,Valerenga IF,185,78,NOR,22.30684932,Sam¨²el Friej¨®nsson,4
+Iceland,4,MF,1997-6-15,A. GUDMUNDSSON,PSV Eindhoven,177,80,NED,20.99726027,Albert Guemundsson,5
+Iceland,5,DF,1993-8-5,INGASON,FC Rostov,188,80,RUS,24.85753425,Sverrir Ingi Ingason,20
+Iceland,6,DF,1986-6-19,R. SIGURDSSON,FC Rostov,187,86,RUS,31.98630137,Ragnar Siguresson,77
+Iceland,7,MF,1990-10-27,J. GUDMUNDSSON,Burnley FC,179,77,ENG,27.63013699,J¨®hann Berg Guemundsson,67
+Iceland,8,MF,1988-5-27,B. BJARNASON,Aston Villa FC,183,77,ENG,30.04931507,Birkir Bjarnason,67
+Iceland,9,FW,1991-2-26,SIGURDARSON,FC Rostov,187,85,RUS,27.29589041,Bj?rn Bergmann Sigurearson,12
+Iceland,10,MF,1989-9-8,G. SIGURDSSON,Everton FC,186,82,ENG,28.76438356,Gylfi Siguresson,57
+Iceland,11,FW,1989-2-1,FINNBOGASON,FC Augsburg,185,79,GER,29.36438356,Alfree Finnbogason,47
+Iceland,12,GK,1995-1-19,SCHRAM,Roskilde BK,198,92,DEN,23.4,Frederik Schram,4
+Iceland,13,GK,1995-2-18,R¨²NARSSON,FC Nordsjaelland,186,76,DEN,23.31780822,R¨²nar Alex R¨²narsson,3
+Iceland,14,DF,1982-10-13,ARNASON,Aberdeen FC,191,82,SCO,35.66849315,K¨¢ri ¨¢rnason,67
+Iceland,15,DF,1990-8-6,EYJ¨®LFSSON,Levski Sofia,188,81,BUL,27.85479452,H¨®lmar ?rn Eyj¨®lfsson,10
+Iceland,16,MF,1983-4-1,¨®. SK¨²LASON,Karabukspor,184,79,TUR,35.20273973,¨®lafur Ingi Sk¨²lason,36
+Iceland,17,MF,1989-4-22,GUNNARSSON,Cardiff City FC,181,86,WAL,29.14520548,Aron Gunnarsson,77
+Iceland,18,DF,1993-2-11,MAGN¨²SSON,Bristol City FC,191,85,ENG,25.3369863,H?reur Bj?rgvin Magn¨²sson,16
+Iceland,19,MF,1988-2-25,GISLASON,SV Sandhausen,184,78,GER,30.29863014,R¨²rik G¨ªslason,47
+Iceland,20,MF,1984-6-29,HALLFREDSSON,Udinese Calcio,186,86,ITA,33.95890411,Emil Hallfreesson,64
+Iceland,21,MF,1993-4-30,TRAUSTASON,Malm? FF,183,73,SWE,25.12328767,Arn¨®r Ingvi Traustason,19
+Iceland,22,FW,1992-5-25,B?DVARSSON,Reading FC,189,89,ENG,26.05479452,J¨®n Daei B?evarsson,38
+Iceland,23,DF,1987-5-14,A. SK¨²LASON,KSC Lokeren,170,63,BEL,31.08493151,Ari Freyr Sk¨²lason,56
+Iran,1,GK,1992-9-21,A. BEIRANVAND,Persepolis FC,194,85,IRN,25.72876712,Alireza Beiranvand,22
+Iran,2,MF,1994-9-10,M. TORABI,Saipa Alborz FC,185,71,IRN,23.75890411,Mehdi Torabi,17
+Iran,3,DF,1990-2-25,HAJI SAFI,Olympiacos Piraeus FC,178,75,GRE,28.29863014,Ehsan Hajsafi,94
+Iran,4,DF,1993-7-24,R. CHESHMI,Esteghlal Tehran FC,192,80,IRN,24.89041096,Rouzbeh Cheshmi,10
+Iran,5,DF,1993-9-29,M. MOHAMMADI,FC Akhmat Grozny,178,69,RUS,24.70684932,Milad Mohammadi,19
+Iran,6,MF,1996-10-1,S. EZATOLAHI,FK Amkar Perm,190,82,RUS,21.70136986,Saeid Ezatolahi,25
+Iran,7,MF,1984-6-9,SHOJAEI M.,AEK Athens,187,79,GRE,34.01369863,Masoud Shojaei,74
+Iran,8,DF,1992-4-19,M. POURALIGANJI,Al Sadd SC,187,83,QAT,26.15342466,Morteza Pouraliganji,27
+Iran,9,MF,1987-9-16,OMID,Esteghlal Tehran FC,178,75,IRN,30.74246575,Omid Ebrahimi,30
+Iran,10,FW,1990-4-3,KARIM,Olympiacos Piraeus FC,187,80,GRE,28.19726027,Karim Ansarifard,64
+Iran,11,MF,1988-4-2,V. AMIRI,Persepolis FC,179,71,IRN,30.2,Vahid Amiri,36
+Iran,12,GK,1989-5-18,RASHID,Zob Ahan Isfahan FC,192,84,IRN,29.0739726,Mohammad Rashid Mazaheri,3
+Iran,13,DF,1991-5-11,M.R. KHANZADEH,Padideh FC,186,80,IRN,27.09315068,Mohammad Reza Khanzadeh,11
+Iran,14,FW,1993-9-6,GHODDOS,IFK ?stersund FK,177,79,SWE,24.76986301,Saman Ghoddos,8
+Iran,15,DF,1983-9-6,P. MONTAZERI,Esteghlal Tehran FC,185,77,IRN,34.76986301,Pejman Montazeri,46
+Iran,16,FW,1987-9-20,REZA,SC Heerenveen,180,79,NED,30.73150685,Reza Ghoochannejhad,43
+Iran,17,FW,1992-7-18,MEHDI,Al Gharafa SC,187,80,QAT,25.90684932,Mehdi Taremi,26
+Iran,18,FW,1993-8-11,A. JAHANBAKHSH,AZ Alkmaar,180,77,NED,24.84109589,Alireza Jahanbakhsh,38
+Iran,19,DF,1996-6-20,M. HOSSEINI,Esteghlal Tehran FC,183,78,IRN,21.98356164,Majid Hosseini,1
+Iran,20,FW,1995-1-1,SARDAR,FC Rubin Kazan,186,80,RUS,23.44931507,Sardar Azmoun,33
+Iran,21,FW,1986-7-5,DEJAGAH,Nottingham Forest FC,181,78,ENG,31.94246575,Ashkan Dejagah,46
+Iran,22,GK,1993-4-26,ABEDZADEH,CS Maritimo,186,80,POR,25.13424658,Amir Abedzadeh,1
+Iran,23,DF,1990-3-21,RAMIN,KV Oostende,185,75,BEL,28.23287671,Ramin Rezaeian,28
+Japan,1,GK,1983-3-20,KAWASHIMA,FC Metz,185,74,FRA,35.23561644,Eiji Kawashima,84
+Japan,2,DF,1994-10-24,UEDA,Kashima Antlers,186,79,JPN,23.63835616,Naomichi Ueda,4
+Japan,3,DF,1992-12-11,SHOJI,Kashima Antlers,182,74,JPN,25.50684932,Gen Shoji,11
+Japan,4,MF,1986-6-13,HONDA,CF Pachuca,182,74,MEX,32.00273973,Keisuke Honda,95
+Japan,5,DF,1986-9-12,NAGATOMO,Galatasaray SK,170,68,TUR,31.75342466,Yuto Nagatomo,105
+Japan,6,DF,1993-2-9,ENDO,Urawa Reds,178,75,JPN,25.34246575,Wataru Endo,12
+Japan,7,MF,1992-5-28,SHIBASAKI,Getafe CF,175,64,ESP,26.04657534,Gaku Shibasaki,18
+Japan,8,MF,1991-5-9,HARAGUCHI,Fortuna D¨¹sseldorf,178,68,GER,27.09863014,Genki Haraguchi,33
+Japan,9,FW,1986-4-16,OKAZAKI,Leicester City FC,174,70,ENG,32.16164384,Shinji Okazaki,113
+Japan,10,MF,1989-3-17,KAGAWA,Borussia Dortmund,175,68,GER,29.24383562,Shinji Kagawa,92
+Japan,11,MF,1992-5-6,USAMI,Fortuna D¨¹sseldorf,178,72,GER,26.10684932,Takashi Usami,24
+Japan,12,GK,1986-5-12,HIGASHIGUCHI,Gamba Osaka,184,78,JPN,32.09041096,Masaaki Higashiguchi,5
+Japan,13,FW,1992-7-15,MUTO,FSV Mainz 05,179,72,GER,25.91506849,Yoshinori Muto,24
+Japan,14,MF,1988-6-2,INUI,SD Eibar,169,59,ESP,30.03287671,Takashi Inui,27
+Japan,15,FW,1990-5-18,OSAKO,1. FC K?ln,182,71,GER,28.0739726,Yuya Osako,29
+Japan,16,MF,1990-10-6,YAMAGUCHI,Cerezo Osaka,173,72,JPN,27.68767123,Hotaru Yamaguchi,42
+Japan,17,MF,1984-1-18,HASEBE,Eintracht Frankfurt,180,72,GER,34.40273973,Makoto Hasebe,110
+Japan,18,MF,1993-1-23,OHSHIMA,Kawasaki Frontale,168,64,JPN,25.3890411,Ryota Oshima,5
+Japan,19,DF,1990-4-12,H. SAKAI,Olympique Marseille,183,70,FRA,28.17260274,Hiroki Sakai,43
+Japan,20,DF,1987-5-11,MAKINO,Urawa Reds,182,77,JPN,31.09315068,Tomoaki Makino,32
+Japan,21,DF,1991-3-14,G. SAKAI,Hamburger SV,176,74,GER,27.25205479,G¨­toku Sakai,41
+Japan,22,DF,1988-8-24,YOSHIDA,Southampton FC,189,78,ENG,29.80547945,Maya Yoshida,82
+Japan,23,GK,1995-2-27,NAKAMURA,Kashiwa Reysol,184,72,JPN,23.29315068,Kosuke Nakamura,4
+South Korea,1,GK,1990-9-30,S G KIM,Vissel Kobe,187,80,JPN,27.70410959,Kim Seung-gyu,33
+South Korea,2,DF,1986-12-24,Y LEE,Jeonbuk Hyundai,180,74,KOR,31.47123288,Lee Yong,28
+South Korea,3,DF,1994-4-3,S H JUNG,Sagan Tosu FC,188,74,JPN,24.19726027,Jung Seung-hyun,6
+South Korea,4,DF,1988-5-20,B S OH,Jeju United,189,79,KOR,30.06849315,Oh Ban-suk,2
+South Korea,5,DF,1988-10-4,Y S YUN,Seongnam FC,185,78,KOR,29.69315068,Yun Young-sun,6
+South Korea,6,DF,1987-1-16,J H PARK,Ulsan Hyundai FC,174,71,KOR,31.40821918,Park Joo-ho,36
+South Korea,7,FW,1992-7-8,H M SON,Tottenham Hotspur FC,183,76,ENG,25.93424658,Son Heung-min,67
+South Korea,8,MF,1990-10-30,S J JU,Asan Mugunghwa FC,176,70,KOR,27.62191781,Ju Se-jong,11
+South Korea,9,FW,1988-4-14,S W KIM,Jeonbuk Hyundai,197,97,KOR,30.16712329,Kim Shin-wook,50
+South Korea,10,MF,1998-1-6,S W LEE,Hellas Verona FC,170,63,ITA,20.43561644,Lee Seung-woo,4
+South Korea,11,FW,1996-1-26,H C HWANG,FC Red Bull Salzburg,177,77,AUT,22.38082192,Hwang Hee-chan,14
+South Korea,12,DF,1990-2-25,M W KIM,Sangju Sangmu FC,172,69,KOR,28.29863014,Kim Min-woo,20
+South Korea,13,MF,1989-2-27,J C KOO,FC Augsburg,182,73,GER,29.29315068,Koo Ja-cheol,68
+South Korea,14,DF,1990-9-17,C HONG,Sangju Sangmu FC,176,67,KOR,27.73972603,Hong Chul,14
+South Korea,15,MF,1989-12-14,W Y JUNG,Vissel Kobe,186,78,JPN,28.49863014,Jung Woo-young,30
+South Korea,16,MF,1989-1-24,S Y KI,Swansea City AFC,186,75,WAL,29.38630137,Ki Sung-yueng,102
+South Korea,17,MF,1992-8-10,J S LEE,Jeonbuk Hyundai,180,70,KOR,25.84383562,Lee Jae-sung,35
+South Korea,18,MF,1992-6-9,S M MOON,Incheon United FC,172,68,KOR,26.01369863,Moon Seon-min,3
+South Korea,19,DF,1990-2-27,Y G KIM,Guangzhou Evergrande FC,184,74,CHN,28.29315068,Kim Young-gwon,53
+South Korea,20,DF,1991-9-28,H S JANG,FC Tokyo,187,77,JPN,26.70958904,Jang Hyun-soo,51
+South Korea,21,GK,1987-7-6,J H KIM,Cerezo Osaka,193,82,JPN,30.93972603,Kim Jin-hyeon,15
+South Korea,22,DF,1988-3-10,Y H GO,FC Seoul,170,65,KOR,30.2630137,Go Yo-han,20
+South Korea,23,GK,1991-9-25,H W JO,Daegu FC,189,75,KOR,26.71780822,Cho Hyun-woo,6
+Mexico,1,GK,1981-1-26,J. CORONA,Cruz Azul,182,80,MEX,37.38082192,Jos¨¦ de Jes¨²s Corona,52
+Mexico,2,DF,1987-3-31,H. AYALA,Tigres UANL,188,82,MEX,31.20547945,Hugo Ayala,43
+Mexico,3,DF,1993-9-29,C. SALCEDO,Eintracht Frankfurt,189,83,GER,24.70684932,Carlos Salcedo,21
+Mexico,4,DF,1979-2-13,R. M¨¢RQUEZ,CF Atlas,184,77,MEX,39.33150685,Rafael M¨¢rquez,145
+Mexico,5,DF,1992-9-19,D. REYES,FC Porto,190,77,POR,25.73424658,¨¦rick Guti¨¦rrez,9
+Mexico,6,MF,1990-4-26,J. DOS SANTOS,LA Galaxy,173,69,USA,28.13424658,Jonathan dos Santos,32
+Mexico,7,MF,1988-6-25,M. LAY¨²N,Sevilla FC,180,72,ESP,29.96986301,Miguel Lay¨²n,64
+Mexico,8,FW,1989-7-21,M. FABI¨¢N,Eintracht Frankfurt,171,70,GER,28.89863014,Marco Fabi¨¢n,39
+Mexico,9,FW,1991-5-5,RA¨²L,SL Benfica,188,79,POR,27.10958904,Ra¨²l Jim¨¦nez,63
+Mexico,10,MF,1989-5-11,G. DOS SANTOS,LA Galaxy,178,70,USA,29.09315068,Giovani dos Santos,105
+Mexico,11,FW,1989-3-1,CARLOS V,Los Angeles FC,178,78,USA,29.28767123,Carlos Vela,68
+Mexico,12,GK,1982-9-18,A. TALAVERA,Deportivo Toluca FC,188,84,MEX,35.7369863,Alfredo Talavera,27
+Mexico,13,GK,1985-7-13,G. OCHOA,Standard Li¨¨ge,185,76,BEL,32.92054795,Guillermo Ochoa,94
+Mexico,14,FW,1988-6-1,J. HERN¨¢NDEZ,West Ham United FC,175,71,ENG,30.03561644,Javier Hern¨¢ndez,102
+Mexico,15,DF,1988-1-17,H. MORENO,Real Sociedad,182,82,ESP,30.40547945,H¨¦ctor Moreno,92
+Mexico,16,DF,1990-4-19,H. HERRERA,FC Porto,180,79,POR,28.15342466,H¨¦ctor Herrera,66
+Mexico,17,MF,1993-1-6,JES¨²S C.,FC Porto,174,69,POR,25.43561644,Jes¨²s Manuel Corona,36
+Mexico,18,MF,1986-9-28,A. GUARDADO,Real Betis,167,63,ESP,31.70958904,Andr¨¦s Guardado,145
+Mexico,19,FW,1984-1-12,O. PERALTA,Club Am¨¦rica,178,72,MEX,34.41917808,Oribe Peralta,67
+Mexico,20,MF,1990-2-11,J. AQUINO,Tigres UANL,166,59,MEX,28.3369863,Javier Aquino,53
+Mexico,21,DF,1997-10-24,E. ¨¢LVAREZ,Club Am¨¦rica,186,72,MEX,20.63835616,Edson ¨¢lvarez,13
+Mexico,22,FW,1995-7-30,H. LOZANO,PSV Eindhoven,176,66,NED,22.8739726,Hirving Lozano,28
+Mexico,23,MF,1994-8-15,J. GALLARDO,Pumas UNAM,177,74,MEX,23.83013699,Jes¨²s Gallardo,23
+Morocco,1,GK,1991-4-5,BOUNOU,Girona FC,190,77,ESP,27.19178082,Yassine Bounou,11
+Morocco,2,DF,1998-11-4,HAKIMI,Real Madrid CF,179,65,ESP,19.60821918,Achraf Hakimi,10
+Morocco,3,DF,1997-10-21,MENDYL,Lille OSC,179,70,FRA,20.64657534,Hamza Mendyl,13
+Morocco,4,DF,1986-5-6,DA COSTA,Istanbul Ba?ak?ehir FK,187,78,TUR,32.10684932,Manuel da Costa,28
+Morocco,5,DF,1987-4-17,BENATIA,Juventus FC,188,88,ITA,31.15890411,Medhi Benatia,57
+Morocco,6,DF,1990-3-26,SAISS,Wolverhampton Wanderers FC,190,76,ENG,28.21917808,Romain Sa?ss,24
+Morocco,7,MF,1993-3-19,ZIYACH,AFC Ajax,180,70,NED,25.23835616,Hakim Ziyech,18
+Morocco,8,MF,1985-1-27,EL AHMADI,Feyenoord Rotterdam,179,78,NED,33.37808219,Karim El Ahmadi,51
+Morocco,9,FW,1993-6-25,EL KAABI,RS Berkane,182,72,MAR,24.96986301,Ayoub El Kaabi,10
+Morocco,10,MF,1990-2-25,BELHANDA,Galatasaray SK,174,75,TUR,28.29863014,Youn¨¨s Belhanda,47
+Morocco,11,MF,1988-8-1,FAJR,Getafe CF,178,72,ESP,29.86849315,Fay?al Fajr,23
+Morocco,12,GK,1989-5-10,EL KAJOUI,CD Numancia,190,88,ESP,29.09589041,Munir Mohamedi,27
+Morocco,13,FW,1987-4-24,BOUTAIB,Yeni Malatyaspor,190,80,TUR,31.13972603,Khalid Bouta?b,18
+Morocco,14,MF,1984-8-15,BOUSSOUFA,Al Jazira,167,59,UAE,33.83013699,Mbark Boussoufa,59
+Morocco,15,MF,1996-7-7,AIT BENNASSER,SM Caen,184,75,FRA,21.9369863,Youssef A?t Bennasser,14
+Morocco,16,MF,1987-3-31,N. AMRABAT,CD Legan¨¦s,178,77,ESP,31.20547945,Nordin Amrabat,44
+Morocco,17,DF,1986-2-25,DIRAR,Fenerbahce SK,187,82,TUR,32.29863014,Nabil Dirar,34
+Morocco,18,MF,1997-6-18,HARIT,FC Schalke 04,179,66,GER,20.9890411,Amine Harit,6
+Morocco,19,FW,1997-6-1,EN-NESYRI,Malaga CF,188,75,ESP,21.03561644,Youssef En-Nesyri,16
+Morocco,20,FW,1987-3-30,BOUHADDOUZ,FC St. Pauli,188,80,GER,31.20821918,Aziz Bouhaddouz,15
+Morocco,21,MF,1996-8-21,S. AMRABAT,Feyenoord Rotterdam,183,77,NED,21.81369863,Sofyan Amrabat,6
+Morocco,22,GK,1996-4-5,TAGNAOUTI,IRT Tanger,186,70,MAR,22.19178082,Ahmed Reda Tagnaouti,2
+Morocco,23,MF,1989-7-1,CARCELA,Standard Li¨¨ge,176,67,BEL,28.95342466,Mehdi Carcela,20
+Nigeria,1,GK,1988-10-16,EZENWA,Enyimba FC,181,80,NGA,29.66027397,Ikechukwu Ezenwa,24
+Nigeria,2,DF,1992-5-18,IDOWU,FK Amkar Perm,179,75,RUS,26.0739726,Brian Idowu,5
+Nigeria,3,DF,1988-1-20,ECHIEJILE,Cercle Brugge,185,82,BEL,30.39726027,Elderson Echi¨¦jil¨¦,62
+Nigeria,4,MF,1996-12-16,NDIDI,Leicester City FC,184,73,ENG,21.49315068,Wilfred Ndidi,17
+Nigeria,5,DF,1993-9-1,EKONG,Bursaspor,191,85,TUR,24.78356164,William Troost-Ekong,22
+Nigeria,6,DF,1988-6-28,BALOGUN,FSV Mainz 05,190,89,GER,29.96164384,Leon Balogun,19
+Nigeria,7,FW,1992-10-14,MUSA,CSKA Moscow,173,65,RUS,25.66575342,Ahmed Musa,72
+Nigeria,8,MF,1995-11-9,ETEBO,UD Las Palmas,174,74,ESP,22.59452055,Oghenekaro Etebo,14
+Nigeria,9,FW,1989-6-16,IGHALO,Changchun Yatai,188,83,CHN,28.99452055,Odion Ighalo,19
+Nigeria,10,MF,1987-4-22,MIKEL,Tianjin Teda,188,82,CHN,31.14520548,John Obi Mikel,85
+Nigeria,11,FW,1990-12-12,MOSES,Chelsea FC,177,75,ENG,27.50410959,Victor Moses,34
+Nigeria,12,DF,1993-3-12,SHEHU,Bursaspor,182,75,TUR,25.25753425,Shehu Abdullahi,25
+Nigeria,13,FW,1992-5-7,NWANKWO,FC Crotone,197,89,ITA,26.10410959,Simeon Nwankwo,2
+Nigeria,14,FW,1996-3-10,IHEANACHO,Leicester City FC,183,80,ENG,22.2630137,Kelechi Iheanacho,18
+Nigeria,15,MF,1991-5-22,OBI,Torino FC,177,77,ITA,27.0630137,Joel Obi,17
+Nigeria,16,GK,1986-3-8,AKPEYI,Chippa United FC,187,94,RSA,32.26849315,Daniel Akpeyi,7
+Nigeria,17,MF,1992-12-25,ONAZI,Trabzonspor,172,74,TUR,25.46849315,Ogenyi Onazi,52
+Nigeria,18,FW,1996-5-3,IWOBI,Arsenal FC,185,86,ENG,22.11506849,Alex Iwobi,19
+Nigeria,19,MF,1988-4-20,OGU,Hapoel Be'er Sheva FC,191,90,ISR,30.15068493,John Ogu,20
+Nigeria,20,DF,1997-1-1,AWAZIEM,FC Nantes,192,76,FRA,21.44931507,Chidozie Awaziem,4
+Nigeria,21,DF,1995-12-16,EBUEHI,ADO Den Haag,187,74,NED,22.49315068,Tyronne Ebuehi,7
+Nigeria,22,DF,1993-10-17,OMERUO,Kasimpasa SK,185,82,TUR,24.65753425,Kenneth Omeruo,39
+Nigeria,23,GK,1998-10-28,UZOHO,Deportivo La Coru?a,196,91,ESP,19.62739726,Francis Uzoho,6
+Panama,1,GK,1981-9-26,PENEDO,Dinamo Bucharest,183,70,ROU,36.71506849,Jaime Penedo,131
+Panama,2,DF,1996-2-11,MURILLO,New York Red Bulls,183,78,USA,22.3369863,Michael Amir Murillo,22
+Panama,3,DF,1992-3-1,CUMMINGS,San Jose Earthquakes,183,92,USA,26.28767123,Harold Cummings,52
+Panama,4,DF,1995-1-9,ESCOBAR,New York Red Bulls,182,82,USA,23.42739726,Fidel Escobar,23
+Panama,5,DF,1986-3-20,R. TORRES,Seattle Sounders FC,188,99,USA,32.23561644,Rom¨¢n Torres,111
+Panama,6,MF,1984-5-29,GOMEZ,Atl¨¦tico Bucaramanga,183,82,COL,34.04383562,Gabriel G¨®mez,144
+Panama,7,FW,1981-3-13,PEREZ,CSD Municipal,187,83,GUA,37.25479452,Blas P¨¦rez,118
+Panama,8,MF,1993-10-23,BARCENAS,Cafetaleros de Tapachula,175,72,MEX,24.64109589,¨¦dgar B¨¢rcenas,29
+Panama,9,FW,1988-10-31,G. TORRES,CD Huachipato,180,77,CHI,29.61917808,Gabriel Torres,72
+Panama,10,FW,1997-5-12,DIAZ,Deportivo La Coru?a,181,72,ESP,21.09041096,Ismael D¨ªaz,11
+Panama,11,MF,1987-11-26,COOPER,Club Universidad de Chile,173,72,CHI,30.54794521,Armando Cooper,98
+Panama,12,GK,1985-8-14,CALDERON,Chorrillo FC,187,87,PAN,32.83287671,Jos¨¦ Calder¨®n,31
+Panama,13,DF,1985-2-14,MACHADO,Houston Dynamo,182,78,USA,33.32876712,Adolfo Machado,76
+Panama,14,MF,1991-5-30,PIMENTEL,Plaza Amador,189,80,PAN,27.04109589,Valent¨ªn Pimentel,23
+Panama,15,DF,1991-3-31,DAVIS,DAC Dunajska Streda,180,81,SVK,27.20547945,Erick Davis,38
+Panama,16,FW,1993-12-13,ARROYO,LD Alajuelense,183,82,CRC,24.50136986,Abdiel Arroyo,33
+Panama,17,DF,1988-9-7,OVALLE,CD Olimpia,178,75,HON,29.76712329,Luis Ovalle,25
+Panama,18,FW,1982-3-28,TEJADA,Sport Boys,183,87,PER,36.21369863,Luis Tejada,105
+Panama,19,MF,1987-12-18,QUINTERO,Universitario Lima,165,62,PER,30.48767123,Ricardo ¨¢vila,5
+Panama,20,MF,1990-2-10,GODOY,San Jose Earthquakes,183,82,USA,28.33972603,An¨ªbal Godoy,88
+Panama,21,MF,1998-6-19,J. RODRIGUEZ,KAA Gent,180,77,BEL,19.98630137,Jos¨¦ Luis Rodr¨ªguez,2
+Panama,22,GK,1990-8-5,RODRIGUEZ,San Francisco FC,197,83,PAN,27.85753425,¨¢lex Rodr¨ªguez,6
+Panama,23,DF,1981-2-24,BALOY,CSD Municipal,185,87,GUA,37.30136986,Felipe Baloy,102
+Peru,1,GK,1990-2-23,GALLESE,CD Tiburones Rojos de Veracruz,189,79,MEX,28.30410959,Pedro Gallese,38
+Peru,2,DF,1984-3-31,RODRIGUEZ,Atletico Junior,179,78,COL,34.20547945,Alberto Rodr¨ªguez,59
+Peru,3,DF,1989-5-20,CORZO,Universitario Lima,172,75,PER,29.06849315,Aldo Corzo,25
+Peru,4,DF,1992-1-10,SANTAMARIA,Puebla FC,183,84,MEX,26.42465753,Anderson Santamar¨ªa,4
+Peru,5,DF,1994-10-24,ARAUJO,Alianza Lima,178,77,PER,23.63835616,Miguel Araujo,7
+Peru,6,DF,1992-8-25,TRAUCO,CR Flamengo,169,74,BRA,25.80273973,Miguel Trauco,27
+Peru,7,MF,1990-7-27,HURTADO,Vitoria Guimaraes,174,66,POR,27.88219178,Paolo Hurtado,31
+Peru,8,MF,1991-11-23,CUEVA,Sao Paulo FC,169,69,BRA,26.55616438,Christian Cueva,44
+Peru,9,FW,1984-1-1,GUERRERO,CR Flamengo,185,88,BRA,34.44931507,Paolo Guerrero,88
+Peru,10,FW,1984-10-26,FARFAN,FC Lokomotiv Moscow,177,85,RUS,33.63287671,Jefferson Farf¨¢n,84
+Peru,11,FW,1990-7-25,RUIDIAZ,CA Monarcas Morelia,169,67,MEX,27.88767123,Ra¨²l Ruid¨ªaz,30
+Peru,12,GK,1991-9-27,CACEDA,Deportivo Municipal,184,78,PER,26.71232877,Carlos C¨¢ceda,4
+Peru,13,MF,1995-7-28,TAPIA,Feyenoord Rotterdam,185,85,NED,22.87945205,Renato Tapia,23
+Peru,14,MF,1994-9-29,POLO,Portland Timbers,174,71,USA,23.70684932,Andy Polo,17
+Peru,15,DF,1988-11-4,RAMOS,CD Tiburones Rojos de Veracruz,182,72,MEX,29.60821918,Christian Ramos,66
+Peru,16,MF,1994-9-23,CARTAGENA,CD Tiburones Rojos de Veracruz,179,76,MEX,23.72328767,Wilder Cartagena,3
+Peru,17,DF,1990-3-2,ADVINCULA,Lobos BUAP,178,80,MEX,28.28493151,Luis Adv¨ªncula,65
+Peru,18,FW,1991-6-14,CARRILLO,Watford FC,182,77,ENG,27,Andr¨¦ Carrillo,45
+Peru,19,MF,1990-4-7,YOTUN,Orlando City SC,172,69,USA,28.18630137,Yoshimar Yot¨²n,73
+Peru,20,FW,1994-5-14,FLORES,Aalborg BK,170,72,DEN,24.08493151,Edison Flores,29
+Peru,21,GK,1986-3-1,CARVALLO,Universidad T¨¦cnica de Cajamarca,182,84,PER,32.28767123,Jos¨¦ Carvallo,6
+Peru,22,DF,1994-10-26,LOYOLA,FBC Melgar,179,68,PER,23.63287671,Nilson Loyola,3
+Peru,23,MF,1995-4-13,AQUINO,Lobos BUAP,174,71,MEX,23.16986301,Pedro Aquino,13
+Poland,1,GK,1990-4-18,SZCZESNY,Juventus FC,195,84,ITA,28.15616438,Wojciech Szcz?sny,35
+Poland,2,DF,1987-9-21,PAZDAN,Legia Warsaw,181,78,POL,30.72876712,Micha? Pazdan,33
+Poland,3,DF,1987-11-4,JEDRZEJCZYK,Legia Warsaw,189,78,POL,30.60821918,Artur J?drzejczyk,36
+Poland,4,DF,1986-4-21,CIONEK,SPAL Ferrara,184,81,ITA,32.14794521,Thiago Cionek,19
+Poland,5,DF,1996-4-12,BEDNAREK,Southampton FC,189,77,ENG,22.17260274,Jan Bednarek,3
+Poland,6,MF,1992-9-21,GORALSKI,PFC Ludogorets Razgrad,172,66,BUL,25.72876712,Jacek G¨®ralski,5
+Poland,7,FW,1994-2-28,MILIK,SSC Napoli,186,81,ITA,24.29041096,Arkadiusz Milik,40
+Poland,8,MF,1995-2-2,LINETTY,UC Sampdoria,176,73,ITA,23.36164384,Karol Linetty,20
+Poland,9,FW,1988-8-21,LEWANDOWSKI,FC Bayern M¨¹nchen,185,79,GER,29.81369863,Robert Lewandowski,95
+Poland,10,MF,1990-1-29,KRYCHOWIAK,West Bromwich Albion FC,186,83,ENG,28.37260274,Grzegorz Krychowiak,51
+Poland,11,MF,1988-6-8,GROSICKI,Hull City FC,180,78,ENG,30.01643836,Kamil Grosicki,57
+Poland,12,GK,1987-7-6,BIALKOWSKI,Ipswich Town FC,194,83,ENG,30.93972603,Bartosz Bia?kowski,1
+Poland,13,MF,1989-8-19,RYBUS,FC Lokomotiv Moscow,173,75,RUS,28.81917808,Maciej Rybus,51
+Poland,14,FW,1991-6-3,TEODORCZYK,RSC Anderlecht,185,78,BEL,27.03013699,?ukasz Teodorczyk,17
+Poland,15,DF,1988-2-3,GLIK,AS Monaco,190,80,FRA,30.35890411,Kamil Glik,57
+Poland,16,MF,1985-12-14,BLASZCZYKOWSKI,VfL Wolfsburg,175,71,GER,32.49863014,Jakub B?aszczykowski,99
+Poland,17,MF,1985-2-19,PESZKO,Lechia Gdansk,173,68,POL,33.31506849,S?awomir Peszko,43
+Poland,18,DF,1992-7-12,BERESZYNSKI,UC Sampdoria,182,72,ITA,25.92328767,Bartosz Bereszy¨½ski,8
+Poland,19,MF,1994-5-20,ZIELINSKI,SSC Napoli,177,64,ITA,24.06849315,Piotr Zieli¨½ski,33
+Poland,20,DF,1985-6-3,PISZCZEK,Borussia Dortmund,184,79,GER,33.03013699,?ukasz Piszczek,63
+Poland,21,MF,1993-1-29,KURZAWA,Gornik Zabrze,182,73,POL,25.37260274,Rafa? Kurzawa,3
+Poland,22,GK,1985-4-18,FABIANSKI,Swansea City AFC,190,83,WAL,33.15616438,?ukasz Fabia¨½ski,45
+Poland,23,FW,1997-3-14,KOWNACKI,UC Sampdoria,185,75,ITA,21.25205479,Dawid Kownacki,2
+Portugal,1,GK,1988-2-15,RUI PATRICIO,Sporting CP,189,84,POR,30.3260274,Rui Patr¨ªcio,69
+Portugal,2,DF,1981-11-27,B. ALVES,Rangers FC,187,83,SCO,36.54520548,Bruno Alves,96
+Portugal,3,DF,1983-2-26,PEPE,Besiktas JK,188,81,TUR,35.29589041,Pepe,95
+Portugal,4,MF,1986-2-5,M. FERNANDES,FC Lokomotiv Moscow,174,69,RUS,32.35342466,Manuel Fernandes,14
+Portugal,5,DF,1993-12-22,RAPHAEL,Borussia Dortmund,170,64,GER,24.47671233,Rapha?l Guerreiro,24
+Portugal,6,DF,1983-12-22,FONTE,Dalian Yifang FC,191,84,CHN,34.47671233,Jos¨¦ Fonte,31
+Portugal,7,FW,1985-2-5,RONALDO,Real Madrid CF,185,80,ESP,33.35342466,Cristiano Ronaldo,150
+Portugal,8,MF,1986-9-8,J. MOUTINHO,AS Monaco,170,61,FRA,31.76438356,Jo?o Moutinho,110
+Portugal,9,FW,1995-11-6,ANDR¨¦ SILVA,AC Milan,184,78,ITA,22.60273973,Andr¨¦ Silva,23
+Portugal,10,MF,1993-1-19,J. M¨¢RIO,West Ham United FC,179,73,ENG,25.4,Jo?o M¨¢rio,36
+Portugal,11,MF,1994-8-10,BERNARDO,Manchester City FC,173,65,ENG,23.84383562,Bernardo Silva,25
+Portugal,12,GK,1990-10-1,LOPES,Olympique Lyon,184,81,FRA,27.70136986,Anthony Lopes,7
+Portugal,13,DF,1997-5-14,RUBEN DIAS,SL Benfica,187,83,POR,21.08493151,R¨²ben Dias,1
+Portugal,14,MF,1992-4-7,WILLIAM,Sporting CP,190,80,POR,26.18630137,William Carvalho,43
+Portugal,15,DF,1993-10-6,RICARDO,FC Porto,174,70,POR,24.68767123,Ricardo Pereira,4
+Portugal,16,MF,1994-9-8,B. FERNANDES,Sporting CP,183,64,POR,23.76438356,Bruno Fernandes,6
+Portugal,17,FW,1996-11-29,G. GUEDES,Valencia CF,179,72,ESP,21.53972603,Gon?alo Guedes,10
+Portugal,18,FW,1995-5-11,GELSON,Sporting CP,173,63,POR,23.09315068,Gelson Martins,18
+Portugal,19,DF,1991-5-27,M¨¢RIO RUI,SSC Napoli,168,67,ITA,27.04931507,M¨¢rio Rui,4
+Portugal,20,FW,1983-9-26,QUARESMA,Besiktas JK,175,73,TUR,34.71506849,Ricardo Quaresma,77
+Portugal,21,DF,1991-8-31,C¨¦DRIC,Southampton FC,172,67,ENG,26.78630137,C¨¦dric,29
+Portugal,22,GK,1982-5-1,BETO,Goztepe SK,183,79,TUR,36.12054795,Beto,14
+Portugal,23,MF,1989-3-15,ADRIEN,Leicester City FC,176,72,ENG,29.24931507,Adrien Silva,23
+Russia,1,GK,1986-4-8,AKINFEEV,CSKA Moscow,185,83,RUS,32.18356164,Igor Akinfeev,106
+Russia,2,DF,1990-9-19,FERNANDES,CSKA Moscow,187,79,RUS,27.73424658,M¨¢rio Fernandes,5
+Russia,3,DF,1993-7-29,KUTEPOV,FC Spartak Moscow,190,82,RUS,24.87671233,Ilya Kutepov,7
+Russia,4,DF,1979-7-14,IGNASHEVICH,CSKA Moscow,186,84,RUS,38.91780822,Sergei Ignashevich,122
+Russia,5,DF,1989-3-24,SEMENOV,FC Akhmat Grozny,191,87,RUS,29.22465753,Andrei Semyonov,6
+Russia,6,MF,1990-12-26,CHERYSHEV,Villarreal CF,173,68,ESP,27.46575342,Denis Cheryshev,11
+Russia,7,MF,1993-1-15,KUZIAEV,FC Zenit St. Petersburg,182,74,RUS,25.4109589,Daler Kuzyayev,6
+Russia,8,MF,1989-7-20,GAZINSKII,FC Krasnodar,180,75,RUS,28.90136986,Yury Gazinsky,6
+Russia,9,MF,1990-6-17,DZAGOEV,CSKA Moscow,178,73,RUS,27.99178082,Alan Dzagoev,57
+Russia,10,FW,1990-2-9,SMOLOV,FC Krasnodar,185,79,RUS,28.34246575,Fyodor Smolov,32
+Russia,11,MF,1994-2-11,ZOBNIN,FC Spartak Moscow,185,77,RUS,24.3369863,Roman Zobnin,12
+Russia,12,GK,1991-11-13,LUNEV,FC Zenit St. Petersburg,189,80,RUS,26.58356164,Andrey Lunyov,3
+Russia,13,DF,1987-4-5,KUDRIASHOV,FC Rubin Kazan,187,78,RUS,31.19178082,Fyodor Kudryashov,19
+Russia,14,DF,1987-5-22,GRANAT,FC Rubin Kazan,184,80,RUS,31.0630137,Vladimir Granat,12
+Russia,15,MF,1995-10-17,MIRANCHUK AL.,FC Lokomotiv Moscow,185,77,RUS,22.65753425,Aleksei Miranchuk,18
+Russia,16,MF,1995-10-17,MIRANCHUK AN.,FC Lokomotiv Moscow,182,67,RUS,22.65753425,Anton Miranchuk,6
+Russia,17,MF,1996-5-30,GOLOVIN,CSKA Moscow,178,70,RUS,22.04109589,Aleksandr Golovin,19
+Russia,18,MF,1983-8-20,ZHIRKOV,FC Zenit St. Petersburg,180,76,RUS,34.81643836,Yuri Zhirkov,84
+Russia,19,MF,1984-7-19,SAMEDOV,FC Spartak Moscow,178,74,RUS,33.90410959,Aleksandr Samedov,48
+Russia,20,GK,1983-10-19,GABULOV,Club Brugge KV,190,81,BEL,34.65205479,Vladimir Gabulov,10
+Russia,21,MF,1989-10-13,EROKHIN,FC Zenit St. Petersburg,191,79,RUS,28.66849315,Aleksandr Yerokhin,17
+Russia,22,FW,1988-8-22,DZYUBA,FC Arsenal Tula,196,90,RUS,29.8109589,Artem Dzyuba,23
+Russia,23,DF,1988-8-8,SMOLNIKOV,FC Zenit St. Petersburg,179,72,RUS,29.84931507,Igor Smolnikov,27
+Saudi Arabia,1,GK,1987-1-23,ABDULLAH,Al Hilal SFC,178,98,KSA,31.3890411,Abdullah Al-Mayouf,11
+Saudi Arabia,2,DF,1987-10-19,MANSOUR,Al Ahli SC,173,68,KSA,30.65205479,Mansoor Al-Harbi,40
+Saudi Arabia,3,DF,1984-3-31,OSAMA,Al Hilal SFC,188,83,KSA,34.20547945,Osama Hawsawi,135
+Saudi Arabia,4,DF,1989-11-21,ALI,Al Hilal SFC,182,83,KSA,28.56164384,Ali Al-Bulaihi,4
+Saudi Arabia,5,DF,1985-9-27,OMAR,Al Nassr FC,185,76,KSA,32.71232877,Omar Hawsawi,42
+Saudi Arabia,6,DF,1992-9-15,ALBURAYK,Al Hilal SFC,173,61,KSA,25.74520548,Mohammed Al-Breik,11
+Saudi Arabia,7,MF,1989-8-1,SALMAN,Al Hilal SFC,179,63,KSA,28.86849315,Salman Al-Faraj,43
+Saudi Arabia,8,MF,1990-6-26,YAHIA,CD Legan¨¦s,165,63,ESP,27.96712329,Yahya Al-Shehri,57
+Saudi Arabia,9,MF,1992-7-16,HATAN,Al Shabab FC,170,66,KSA,25.91232877,Hattan Bahebri,5
+Saudi Arabia,10,FW,1987-1-10,ALSAHLAWI,Al Nassr FC,179,75,KSA,31.42465753,Mohammad Al-Sahlawi,40
+Saudi Arabia,11,MF,1986-3-13,ABDULMALEK,Al Hilal SFC,177,73,KSA,32.25479452,Abdulmalek Al-Khaibri,36
+Saudi Arabia,12,MF,1994-9-22,KANNO,Al Hilal SFC,192,73,KSA,23.7260274,Mohamed Kanno,6
+Saudi Arabia,13,DF,1992-5-25,YASIR,Al Hilal SFC,170,63,KSA,26.05479452,Yasser Al-Shahrani,37
+Saudi Arabia,14,MF,1992-8-3,OTAYF,Al Hilal SFC,177,66,KSA,25.8630137,Abdullah Otayf,16
+Saudi Arabia,15,MF,1996-8-16,ALKHAIBARI,Al Shabab FC,175,66,KSA,21.82739726,Abdullah Al-Khaibari,5
+Saudi Arabia,16,MF,1988-3-24,HUSSAIN,Al Ahli SC,174,76,KSA,30.22465753,Housain Al-Mogahwi,18
+Saudi Arabia,17,MF,1984-7-25,TAISEER,Al Ahli SC,169,69,KSA,33.88767123,Taisir Al-Jassim,132
+Saudi Arabia,18,MF,1991-8-19,SALEM,Villarreal CF,174,68,ESP,26.81917808,Salem Al-Dawsari,33
+Saudi Arabia,19,FW,1994-9-14,FAHAD,Levante UD,168,65,ESP,23.74794521,Fahad Al-Muwallad,45
+Saudi Arabia,20,FW,1986-10-14,MUHANNAD,Al Ahli SC,185,79,KSA,31.66575342,Muhannad Assiri,18
+Saudi Arabia,21,GK,1984-2-27,ALMOSAILEM,Al Ahli SC,186,88,KSA,34.29315068,Yasser Al-Mosailem,32
+Saudi Arabia,22,GK,1991-10-10,ALOWAIS,Al Ahli SC,187,79,KSA,26.67671233,Mohammed Al-Owais,6
+Saudi Arabia,23,DF,1992-2-17,MOTAZ,Al Ahli SC,180,79,KSA,26.32054795,Motaz Hawsawi,17
+Senegal,1,GK,1992-3-30,DIALLO,Stade Rennais FC,189,79,FRA,26.20821918,Abdoulaye Diallo,17
+Senegal,2,DF,1989-6-15,CISS,Valenciennes FC,173,69,FRA,28.99726027,Saliou Ciss,18
+Senegal,3,DF,1991-6-20,KOULIBALY,SSC Napoli,195,89,ITA,26.98356164,Kalidou Koulibaly,26
+Senegal,4,DF,1989-11-22,KARA,RSC Anderlecht,192,85,BEL,28.55890411,Kara Mbodji,52
+Senegal,5,MF,1989-9-26,GANA,Everton FC,174,64,ENG,28.71506849,Idrissa Gueye,61
+Senegal,6,MF,1990-8-25,S. SANE,Hannover 96,196,84,GER,27.80273973,Salif San¨¦,22
+Senegal,7,FW,1986-1-19,SOW,Bursaspor,180,75,TUR,32.4,Moussa Sow,51
+Senegal,8,MF,1989-12-21,C. KOUYATE,West Ham United FC,189,75,ENG,28.47945205,Cheikhou Kouyat¨¦,48
+Senegal,9,FW,1987-12-16,M. DIOUF,Stoke City FC,185,81,ENG,30.49315068,Mame Biram Diouf,49
+Senegal,10,FW,1992-4-10,MANE,Liverpool FC,175,69,ENG,26.17808219,Sadio Man¨¦,53
+Senegal,11,MF,1986-3-29,CH. NDOYE,Birmingham City FC,192,90,ENG,32.2109589,Cheikh N'Doye,26
+Senegal,12,DF,1993-3-5,SABALY,FC Girondins Bordeaux,174,71,FRA,25.27671233,Youssouf Sabaly,5
+Senegal,13,MF,1990-3-6,A. NDIAYE,Wolverhampton Wanderers FC,186,80,ENG,28.2739726,Alfred N'Diaye,21
+Senegal,14,FW,1993-4-3,KONATE,Amiens SC,180,78,FRA,25.19726027,Moussa Konat¨¦,28
+Senegal,15,FW,1989-12-24,SAKHO,Stade Rennais FC,184,79,FRA,28.47123288,Diafra Sakho,12
+Senegal,16,GK,1985-4-5,KH. NDIAYE,Horoya AC,185,80,GUI,33.19178082,Khadim N'Diaye,26
+Senegal,17,MF,1990-10-27,P.A. NDIAYE,Stoke City FC,181,74,ENG,27.63013699,Badou Ndiaye,20
+Senegal,18,FW,1998-2-25,ISMA?LA,Stade Rennais FC,175,70,FRA,20.29863014,Isma?la Sarr,16
+Senegal,19,FW,1994-12-19,NIANG,Torino FC,184,74,ITA,23.48493151,M'Baye Niang,7
+Senegal,20,FW,1995-3-8,KE?TA BALDE,AS Monaco,181,77,FRA,23.26849315,Keita Bald¨¦,19
+Senegal,21,DF,1989-10-20,GASSAMA,Adanaspor,181,74,TUR,28.64931507,Lamine Gassama,36
+Senegal,22,DF,1998-10-4,M. WAGUE,KAS Eupen,177,70,BEL,19.69315068,Moussa Wagu¨¦,10
+Senegal,23,GK,1993-9-5,GOMIS,SPAL Ferrara,196,80,ITA,24.77260274,Alfred Gomis,1
+Serbia,1,GK,1983-7-28,STOJKOVI?,FK Partizan,195,92,SRB,34.87945205,Vladimir Stojkovi?,81
+Serbia,2,DF,1984-1-26,RUKAVINA,Villarreal CF,177,71,ESP,34.38082192,Antonio Rukavina,47
+Serbia,3,DF,1985-1-19,TO?I?,Besiktas JK,185,79,TUR,33.4,Du?ko To?i?,24
+Serbia,4,MF,1991-4-7,MILIVOJEVI?,Crystal Palace FC,186,80,ENG,27.18630137,Luka Milivojevi?,28
+Serbia,5,DF,1993-2-13,SPAJI?,RSC Anderlecht,188,82,BEL,25.33150685,Uro? Spaji?,5
+Serbia,6,DF,1984-2-22,IVANOVI?,FC Zenit St. Petersburg,185,89,RUS,34.30684932,Branislav Ivanovi?,103
+Serbia,7,MF,1996-7-11,?IVKOVI?,SL Benfica,169,68,POR,21.9260274,Andrija ?ivkovi?,10
+Serbia,8,FW,1990-4-21,PRIJOVI?,PAOK FC,191,88,GRE,28.14794521,Aleksandar Prijovi?,9
+Serbia,9,FW,1994-9-16,MITROVI?,Fulham FC,189,82,ENG,23.74246575,Aleksandar Mitrovi?,37
+Serbia,10,MF,1988-11-20,TADI?,Southampton FC,181,76,ENG,29.56438356,Du?an Tadi?,53
+Serbia,11,DF,1985-11-10,KOLAROV,AS Roma,187,83,ITA,32.59178082,Aleksandar Kolarov,76
+Serbia,12,GK,1995-10-31,RAJKOVI?,Maccabi Tel-Aviv FC,191,85,ISR,22.61917808,Predrag Rajkovi?,8
+Serbia,13,DF,1995-9-26,VELJKOVI?,SV Werder Bremen,188,77,GER,22.71506849,Milo? Veljkovi?,2
+Serbia,14,DF,1991-4-2,RODI?,FK Crvena Zvezda,185,69,SRB,27.2,Milan Rodi?,1
+Serbia,15,DF,1997-10-12,MILENKOVI?,ACF Fiorentina,195,90,ITA,20.67123288,Nikola Milenkovi?,3
+Serbia,16,MF,1996-4-13,GRUJI?,Cardiff City FC,190,82,WAL,22.16986301,Marko Gruji?,8
+Serbia,17,MF,1992-11-1,KOSTI?,Hamburger SV,184,82,GER,25.61643836,Filip Kosti?,23
+Serbia,18,FW,1996-2-15,RADONJI?,FK Crvena Zvezda,185,76,SRB,22.3260274,Nemanja Radonji?,3
+Serbia,19,FW,1997-12-23,JOVI?,Eintracht Frankfurt,181,75,GER,20.4739726,Luka Jovi?,1
+Serbia,20,MF,1995-2-27,SERGEJ,SS Lazio,192,76,ITA,23.29315068,Sergej Milinkovi?-Savi?,4
+Serbia,21,MF,1988-8-1,MATI?,Manchester United FC,194,86,ENG,29.86849315,Nemanja Mati?,40
+Serbia,22,MF,1991-9-29,LJAJI?,Torino FC,182,74,ITA,26.70684932,Adem Ljaji?,29
+Serbia,23,GK,1992-1-24,DMITROVI?,SD Eibar,194,90,ESP,26.38630137,Marko Dmitrovi?,2
+Spain,1,GK,1990-11-7,DE GEA,Manchester United FC,190,71,ENG,27.6,David de Gea,29
+Spain,2,DF,1992-1-11,CARVAJAL,Real Madrid CF,173,73,ESP,26.42191781,Dani Carvajal,15
+Spain,3,DF,1987-2-2,PIQU¨¦,FC Barcelona,194,85,ESP,31.36164384,Gerard Piqu¨¦,98
+Spain,4,DF,1990-1-18,NACHO,Real Madrid CF,179,77,ESP,28.40273973,Nacho,17
+Spain,5,MF,1988-7-16,SERGIO,FC Barcelona,189,78,ESP,29.91232877,Sergio Busquets,103
+Spain,6,MF,1984-5-11,A. INIESTA,FC Barcelona,171,68,ESP,34.09315068,Andr¨¦s Iniesta,127
+Spain,7,MF,1994-11-21,SA¨²L,Atletico Madrid,183,76,ESP,23.56164384,Sa¨²l,10
+Spain,8,MF,1992-1-8,KOKE,Atletico Madrid,176,73,ESP,26.43013699,Koke,40
+Spain,9,FW,1991-3-6,RODRIGO M.,Valencia CF,182,72,ESP,27.2739726,Rodrigo,6
+Spain,10,MF,1991-4-11,THIAGO,FC Bayern M¨¹nchen,174,70,GER,27.17534247,Thiago,29
+Spain,11,FW,1991-7-1,LUCAS V.,Real Madrid CF,173,70,ESP,26.95342466,Lucas V¨¢zquez,7
+Spain,12,DF,1995-12-14,ODRIOZOLA,Real Sociedad,178,67,ESP,22.49863014,¨¢lvaro Odriozola,4
+Spain,13,GK,1994-10-3,ARRIZABALAGA,Athletic Bilbao,189,84,ESP,23.69589041,Kepa Arrizabalaga,1
+Spain,14,DF,1989-8-28,AZPILICUETA,Chelsea FC,178,78,ENG,28.79452055,C¨¦sar Azpilicueta,22
+Spain,15,DF,1986-3-30,RAMOS,Real Madrid CF,183,75,ESP,32.20821918,Sergio Ramos,152
+Spain,16,DF,1986-2-26,MONREAL,Arsenal FC,179,72,ENG,32.29589041,Nacho Monreal,22
+Spain,17,FW,1987-8-1,IAGO ASPAS,Celta Vigo,176,67,ESP,30.86849315,Iago Aspas,10
+Spain,18,DF,1989-3-21,JORDI ALBA,FC Barcelona,170,68,ESP,29.23287671,Jordi Alba,62
+Spain,19,FW,1988-10-7,DIEGO COSTA,Atletico Madrid,185,86,ESP,29.68493151,Diego Costa,20
+Spain,20,MF,1996-1-21,ASENSIO,Real Madrid CF,182,76,ESP,22.39452055,Marco Asensio,12
+Spain,21,FW,1986-1-8,SILVA,Manchester City FC,170,67,ENG,32.43013699,David Silva,121
+Spain,22,MF,1992-4-21,ISCO,Real Madrid CF,176,74,ESP,26.14794521,Isco,28
+Spain,23,GK,1982-8-31,REINA,SSC Napoli,188,92,ITA,35.78630137,Pepe Reina,36
+Sweden,1,GK,1990-1-8,OLSEN,FC Kobenhavn,198,89,DEN,28.43013699,Robin Olsen,18
+Sweden,2,DF,1986-12-13,LUSTIG,Celtic FC,189,77,SCO,31.50136986,Mikael Lustig,66
+Sweden,3,DF,1994-7-17,LINDEL?F,Manchester United FC,187,81,ENG,23.90958904,Victor Lindel?f,21
+Sweden,4,DF,1985-4-16,GRANQVIST,FC Krasnodar,192,84,RUS,33.16164384,Andreas Granqvist,72
+Sweden,5,DF,1988-5-17,OLSSON,Swansea City AFC,177,81,WAL,30.07671233,Martin Olsson,43
+Sweden,6,DF,1994-4-21,AUGUSTINSSON,SV Werder Bremen,181,76,GER,24.14794521,Ludwig Augustinsson,15
+Sweden,7,MF,1985-6-6,LARSSON,Hull City FC,178,70,ENG,33.02191781,Sebastian Larsson,100
+Sweden,8,MF,1989-7-28,EKDAL,Hamburger SV,186,75,GER,28.87945205,Albin Ekdal,34
+Sweden,9,FW,1986-8-17,BERG,Al Ain FC,183,76,UAE,31.82465753,Marcus Berg,57
+Sweden,10,MF,1991-10-23,FORSBERG,RB Leipzig,179,78,GER,26.64109589,Emil Forsberg,36
+Sweden,11,FW,1992-4-15,GUIDETTI,Deportivo Alav¨¦s,185,79,ESP,26.16438356,John Guidetti,20
+Sweden,12,GK,1990-1-28,JOHNSSON,EA Guingamp,187,83,FRA,28.37534247,Karl-Johan Johnsson,5
+Sweden,13,MF,1987-2-7,SVENSSON,Seattle Sounders FC,183,77,USA,31.34794521,Gustav Svensson,13
+Sweden,14,DF,1993-4-22,HELANDER,Bologna FC,192,83,ITA,25.14520548,Filip Helander,4
+Sweden,15,MF,1992-6-28,HILJEMARK,Genoa CFC,184,73,ITA,25.96164384,Oscar Hiljemark,22
+Sweden,16,DF,1994-8-2,KRAFTH,Bologna FC,181,72,ITA,23.86575342,Emil Krafth,13
+Sweden,17,MF,1992-1-2,CLAESSON,FC Krasnodar,183,79,RUS,26.44657534,Viktor Claesson,22
+Sweden,18,DF,1991-2-13,JANSSON,Leeds United FC,194,89,ENG,27.33150685,Pontus Jansson,15
+Sweden,19,MF,1991-5-11,ROHD¨¦N,FC Crotone,182,76,ITA,27.09315068,Marcus Rohd¨¦n,12
+Sweden,20,FW,1986-7-3,TOIVONEN,Toulouse FC,192,78,FRA,31.94794521,Ola Toivonen,59
+Sweden,21,MF,1989-3-22,DURMAZ,Toulouse FC,180,69,FRA,29.23013699,Jimmy Durmaz,45
+Sweden,22,FW,1992-6-24,KIESE THELIN,KV Waasland-Beveren,189,83,BEL,25.97260274,Isaac Kiese Thelin,20
+Sweden,23,GK,1989-6-23,NORDFELDT,Swansea City AFC,190,85,WAL,28.97534247,Kristoffer Nordfeldt,8
+Switzerland,1,GK,1988-12-17,SOMMER,VfL Borussia M?nchengladbach,183,81,GER,29.49041096,Yann Sommer,35
+Switzerland,2,DF,1984-1-16,LICHTSTEINER,Juventus FC,181,77,ITA,34.40821918,Stephan Lichtsteiner,100
+Switzerland,3,DF,1990-6-21,MOUBANDJE,Toulouse FC,180,76,FRA,27.98082192,Fran?ois Moubandje,18
+Switzerland,4,DF,1996-9-30,ELVEDI,VfL Borussia M?nchengladbach,187,77,GER,21.70410959,Nico Elvedi,6
+Switzerland,5,DF,1995-7-19,AKANJI,Borussia Dortmund,186,85,GER,22.90410959,Manuel Akanji,7
+Switzerland,6,DF,1991-2-8,LANG,FC Basel,185,78,SUI,27.34520548,Michael Lang,24
+Switzerland,7,FW,1997-2-14,EMBOLO,FC Schalke 04,184,86,GER,21.32876712,Breel Embolo,25
+Switzerland,8,MF,1992-4-15,FREULER,Atalanta Bergamo,181,75,ITA,26.16438356,Remo Freuler,10
+Switzerland,9,FW,1992-2-22,SEFEROVIC,SL Benfica,186,88,POR,26.30684932,Haris Seferovi?,51
+Switzerland,10,MF,1992-9-27,XHAKA,Arsenal FC,183,82,ENG,25.71232877,Granit Xhaka,62
+Switzerland,11,MF,1985-4-19,BEHRAMI,Udinese Calcio,184,78,ITA,33.15342466,Valon Behrami,79
+Switzerland,12,GK,1994-6-6,MVOGO,RB Leipzig,186,84,GER,24.02191781,Yvon Mvogo,0
+Switzerland,13,DF,1992-8-25,RODRIGUEZ,AC Milan,180,79,ITA,25.80273973,Ricardo Rodr¨ªguez,53
+Switzerland,14,MF,1991-8-17,ZUBER,TSG 1899 Hoffenheim,182,79,GER,26.82465753,Steven Zuber,12
+Switzerland,15,MF,1986-4-12,DZEMAILI,Bologna FC,180,77,ITA,32.17260274,Blerim D?emaili,65
+Switzerland,16,MF,1986-9-2,G. FERNANDES,Eintracht Frankfurt,180,72,GER,31.78082192,Gelson Fernandes,67
+Switzerland,17,MF,1996-11-20,ZAKARIA,VfL Borussia M?nchengladbach,189,77,GER,21.56438356,Denis Zakaria,10
+Switzerland,18,FW,1989-11-24,GAVRANOVIC,GNK Dinamo Zagreb,175,75,CRO,28.55342466,Mario Gavranovi?,14
+Switzerland,19,FW,1992-8-8,DRMIC,VfL Borussia M?nchengladbach,184,78,GER,25.84931507,Josip Drmi?,29
+Switzerland,20,DF,1987-1-18,DJOUROU,Antalyaspor AS,192,90,TUR,31.40273973,Johan Djourou,74
+Switzerland,21,GK,1990-11-14,B¨¹RKI,Borussia Dortmund,188,83,GER,27.58082192,Roman B¨¹rki,9
+Switzerland,22,DF,1991-12-20,SCH?R,Deportivo La Coru?a,186,83,ESP,26.48219178,Fabian Sch?r,39
+Switzerland,23,MF,1991-10-10,SHAQIRI,Stoke City FC,165,78,ENG,26.67671233,Xherdan Shaqiri,70
+Tunisia,1,GK,1989-7-1,BEN MUSTAPHA,Al Shabab FC,192,85,KSA,28.95342466,Farouk Ben Mustapha,15
+Tunisia,2,DF,1989-3-31,BEN YOUSSEF .S,Kasimpasa SK,189,87,TUR,29.20547945,Syam Ben Youssef,42
+Tunisia,3,DF,1987-3-28,BEN ALOUANE,Leicester City FC,185,75,ENG,31.21369863,Yohan Benalouane,4
+Tunisia,4,DF,1993-7-2,MERIAH,CS Sfaxien,183,70,TUN,24.95068493,Yassine Meriah,16
+Tunisia,5,DF,1992-1-28,HADDADI,Dijon FCO,185,76,FRA,26.37534247,Oussama Haddadi,9
+Tunisia,6,DF,1990-1-19,BEDOUI,¨¦toile du Sahel,187,77,TUN,28.4,Rami Bedoui,8
+Tunisia,7,FW,1995-4-27,KHAOUI,ES Troyes,180,76,FRA,23.13150685,Sa?f-Eddine Khaoui,5
+Tunisia,8,FW,1991-6-23,BEN YOUSSEF .F,Al Ittifaq FC,189,80,KSA,26.97534247,Fakhreddine Ben Youssef,39
+Tunisia,9,MF,1990-9-18,BADRI,ES Tunis,178,70,TUN,27.7369863,Anice Badri,7
+Tunisia,10,FW,1991-2-8,KHAZRI,Stade Rennais FC,182,76,FRA,27.34520548,Wahbi Khazri,35
+Tunisia,11,DF,1995-6-19,BRONN,KAA Gent,186,75,BEL,22.98630137,Dylan Bronn,5
+Tunisia,12,DF,1990-1-1,MAALOUL,Al Ahly SC,170,72,EGY,28.44931507,Ali Maaloul,46
+Tunisia,13,MF,1992-3-18,SASSI,Al Nassr FC,186,80,KSA,26.24109589,Ferjani Sassi,39
+Tunisia,14,MF,1992-5-3,BEN AMOR,Al Ahli SC,180,75,KSA,26.11506849,Mohamed Amine Ben Amor,26
+Tunisia,15,FW,1994-12-21,KHALIL,Club Africain,187,75,TUN,23.47945205,Ahmed Khalil,3
+Tunisia,16,GK,1984-9-14,MATHLOUTHI .A,Al Batin FC,182,84,KSA,33.74794521,Aymen Mathlouthi,70
+Tunisia,17,MF,1995-5-10,SKHIRI JORIS,Montpellier HSC,185,69,FRA,23.09589041,Ellyes Skhiri,5
+Tunisia,18,FW,1997-6-25,SRARFI,OGC Nice,176,71,FRA,20.96986301,Bassem Srarfi,5
+Tunisia,19,FW,1986-10-14,KHALIFA,Club Africain,185,72,TUN,31.66575342,Saber Khalifa,44
+Tunisia,20,FW,1994-2-28,CHAALELI,ES Tunis,179,70,TUN,24.29041096,Ghailene Chaalali,6
+Tunisia,21,DF,1992-10-28,NAGUEZ,Zamalek,186,75,EGY,25.62739726,Hamdi Nagguez,15
+Tunisia,22,GK,1995-3-5,HASSEN,LB Chateauroux,186,70,FRA,23.27671233,Mouez Hassen,3
+Tunisia,23,FW,1992-7-27,SLITI,Dijon FCO,173,65,FRA,25.88219178,Na?m Sliti,17
+Uruguay,1,GK,1986-6-16,F. MUSLERA,Galatasaray SK,190,74,TUR,31.99452055,Fernando Muslera,97
+Uruguay,2,DF,1995-1-20,J.M. GIMENEZ,Atletico Madrid,185,77,ESP,23.39726027,Jos¨¦ Gim¨¦nez,42
+Uruguay,3,DF,1986-2-16,D. GODIN,Atletico Madrid,185,73,ESP,32.32328767,Diego God¨ªn,116
+Uruguay,4,DF,1993-3-24,G. VARELA,CA Penarol,173,70,URU,25.22465753,Guillermo Varela,3
+Uruguay,5,MF,1984-12-2,C. SANCHEZ,CF Monterrey,171,74,MEX,33.53150685,Carlos S¨¢nchez,36
+Uruguay,6,MF,1997-6-25,R. BENTANCUR,Juventus FC,187,73,ITA,20.96986301,Rodrigo Bentancur,7
+Uruguay,7,MF,1985-9-30,C. RODRIGUEZ,CA Penarol,178,79,URU,32.70410959,Cristian Rodr¨ªguez,105
+Uruguay,8,MF,1995-12-28,N. NANDEZ,CA Boca Juniors,171,61,ARG,22.46027397,Nahitan N¨¢ndez,12
+Uruguay,9,FW,1987-1-24,L. SUAREZ,FC Barcelona,182,85,ESP,31.38630137,Luis Su¨¢rez,98
+Uruguay,10,FW,1994-6-1,G. DE ARRASCAETA,Cruzeiro EC,172,64,BRA,24.03561644,Giorgian De Arrascaeta,14
+Uruguay,11,FW,1986-10-12,C. STUANI,Girona FC,186,78,ESP,31.67123288,Cristhian Stuani,41
+Uruguay,12,GK,1989-5-29,M. CAMPA?A,CA Independiente,184,79,ARG,29.04383562,Mart¨ªn Campa?a,1
+Uruguay,13,DF,1994-3-5,G. SILVA,CA Independiente,185,74,ARG,24.27671233,Gast¨®n Silva,17
+Uruguay,14,MF,1996-2-11,L. TORREIRA,UC Sampdoria,168,61,ITA,22.3369863,Lucas Torreira,3
+Uruguay,15,MF,1991-8-24,M. VECINO,FC Internazionale,189,80,ITA,26.80547945,Mat¨ªas Vecino,22
+Uruguay,16,DF,1984-6-8,M. PEREIRA,FC Porto,173,73,POR,34.01643836,Maxi Pereira,125
+Uruguay,17,MF,1993-2-7,D. LAXALT,Genoa CFC,178,66,ITA,25.34794521,Diego Laxalt,6
+Uruguay,18,FW,1996-8-14,M. GOMEZ,Celta Vigo,186,85,ESP,21.83287671,Maxi G¨®mez,5
+Uruguay,19,DF,1990-10-7,S. COATES,Sporting CP,196,89,POR,27.68493151,Sebasti¨¢n Coates,30
+Uruguay,20,FW,1990-3-19,J. URRETAVISCAYA,CF Monterrey,172,66,MEX,28.23835616,Jonathan Urretaviscaya,4
+Uruguay,21,FW,1987-2-14,E. CAVANI,Paris Saint-Germain FC,188,78,FRA,31.32876712,Edinson Cavani,101
+Uruguay,22,DF,1987-4-7,M. CACERES,SS Lazio,178,75,ITA,31.18630137,Mart¨ªn C¨¢ceres,76
+Uruguay,23,GK,1983-3-25,M. SILVA,CR Vasco da Gama,187,82,BRA,35.22191781,Mart¨ªn Silva,11
